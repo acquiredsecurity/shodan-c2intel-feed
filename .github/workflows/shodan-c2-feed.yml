@@ -1,0 +1,34 @@
+name: Shodan C2 Intel Feed
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # Every 6 hours
+  workflow_dispatch:  # Manual trigger
+
+jobs:
+  fetch-c2-data:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      - name: Install dependencies
+        run: pip install shodan
+      
+      - name: Fetch C2 tagged hosts
+        env:
+          SHODAN_API_KEY: ${{ secrets.SHODAN_API_KEY }}
+        run: python scripts/fetch_c2_feed.py
+      
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --staged --quiet || git commit -m "Update C2 feed - $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
