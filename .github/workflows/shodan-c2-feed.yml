@@ -2,7 +2,7 @@ name: Shodan C2 Intel Feed
 
 on:
   schedule:
-    - cron: '0 */6 * * *'  # Every 6 hours
+    - cron: '0 12 * * 5'  # Every Friday at 12:00 UTC
   workflow_dispatch:  # Manual trigger
 
 jobs:
