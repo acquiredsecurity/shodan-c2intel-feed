@@ -48014,8 +48014,4594 @@
       "os": null,
       "query_matched": "ssl.jarm:2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
       "collected_at": "2026-02-20T12:14:41.620797Z"
+    },
+    {
+      "ip": "101.200.193.211",
+      "port": 8086,
+      "product": "Cobalt Strike Beacon",
+      "tags": [],
+      "org": "Aliyun Computing Co., LTD",
+      "asn": "AS37963",
+      "isp": "Hangzhou Alibaba Advertising Co.,Ltd.",
+      "country": "CN",
+      "city": "Beijing",
+      "last_seen": "2026-02-27T11:31:18.134559",
+      "hostnames": [],
+      "domains": [],
+      "ssl_cn": null,
+      "ssl_issuer": null,
+      "ssl_fingerprint": null,
+      "jarm": null,
+      "http_title": null,
+      "http_server": null,
+      "os": null,
+      "query_matched": "product:\"Cobalt Strike\"",
+      "collected_at": "2026-02-27T12:14:09.484089Z"
+    },
+    {
+      "ip": "139.196.41.201",
+      "port": 30001,
+      "product": "Cobalt Strike Beacon",
+      "tags": [],
+      "org": "Aliyun Computing Co., LTD",
+      "asn": "AS37963",
+      "isp": "Hangzhou Alibaba Advertising Co.,Ltd.",
+      "country": "CN",
+      "city": "Shanghai",
+      "last_seen": "2026-02-27T10:57:53.825434",
+      "hostnames": [],
+      "domains": [],
+      "ssl_cn": null,
+      "ssl_issuer": null,
+      "ssl_fingerprint": null,
+      "jarm": null,
+      "http_title": null,
+      "http_server": null,
+      "os": null,
+      "query_matched": "product:\"Cobalt Strike\"",
+      "collected_at": "2026-02-27T12:14:09.484104Z"
+    },
+    {
+      "ip": "5.189.140.26",
+      "port": 443,
+      "product": "Cobalt Strike Beacon",
+      "tags": [
+        "self-signed"
+      ],
+      "org": "Contabo GmbH",
+      "asn": "AS51167",
+      "isp": "Contabo GmbH",
+      "country": "DE",
+      "city": "Frankfurt am Main",
+      "last_seen": "2026-02-27T02:37:02.825249",
+      "hostnames": [
+        "vmi2963718.contaboserver.net"
+      ],
+      "domains": [
+        "contaboserver.net"
+      ],
+      "ssl_cn": "",
+      "ssl_issuer": "",
+      "ssl_fingerprint": "87f2085c32b6a2cc709b365f55873e207a9caa10bffecf2fd16d3cf9d94d390c",
+      "jarm": "2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
+      "http_title": null,
+      "http_server": "Apache",
+      "os": null,
+      "query_matched": "product:\"Cobalt Strike\"",
+      "collected_at": "2026-02-27T12:14:09.484202Z"
+    },
+    {
+      "ip": "121.153.7.211",
+      "port": 443,
+      "product": "Cobalt Strike Beacon",
+      "tags": [],
+      "org": "Korea Telecom",
+      "asn": "AS4766",
+      "isp": "Korea Telecom",
+      "country": "KR",
+      "city": "Daejeon",
+      "last_seen": "2026-02-27T02:15:30.521004",
+      "hostnames": [],
+      "domains": [],
+      "ssl_cn": null,
+      "ssl_issuer": null,
+      "ssl_fingerprint": null,
+      "jarm": null,
+      "http_title": null,
+      "http_server": null,
+      "os": null,
+      "query_matched": "product:\"Cobalt Strike\"",
+      "collected_at": "2026-02-27T12:14:09.484210Z"
+    },
+    {
+      "ip": "121.40.18.128",
+      "port": 50050,
+      "product": "Cobalt Strike C2",
+      "tags": [
+        "c2"
+      ],
+      "org": "Aliyun Computing Co., LTD",
+      "asn": "AS37963",
+      "isp": "Hangzhou Alibaba Advertising Co.,Ltd.",
+      "country": "CN",
+      "city": "Hangzhou",
+      "last_seen": "2026-02-26T16:45:24.052127",
+      "hostnames": [],
+      "domains": [],
+      "ssl_cn": null,
+      "ssl_issuer": null,
+      "ssl_fingerprint": null,
+      "jarm": null,
+      "http_title": null,
+      "http_server": null,
+      "os": null,
+      "query_matched": "product:\"Cobalt Strike\"",
+      "collected_at": "2026-02-27T12:14:09.484270Z"
+    },
+    {
+      "ip": "118.89.73.78",
+      "port": 80,
+      "product": "Cobalt Strike Beacon",
+      "tags": [
+        "cloud"
+      ],
+      "org": "Tencent cloud computing (Beijing) Co., Ltd.",
+      "asn": "AS45090",
+      "isp": "Shenzhen Tencent Computer Systems Company Limited",
+      "country": "CN",
+      "city": "Shanghai",
+      "last_seen": "2026-02-26T13:25:08.429101",
+      "hostnames": [],
+      "domains": [],
+      "ssl_cn": null,
+      "ssl_issuer": null,
+      "ssl_fingerprint": null,
+      "jarm": null,
+      "http_title": null,
+      "http_server": null,
+      "os": null,
+      "query_matched": "product:\"Cobalt Strike\"",
+      "collected_at": "2026-02-27T12:14:09.484276Z"
+    },
+    {
+      "ip": "117.72.68.211",
+      "port": 8000,
+      "product": "Cobalt Strike Beacon",
+      "tags": [],
+      "org": "Beijing Jingdong 360 Degree E-commerce Co., Ltd.",
+      "asn": "AS141679",
+      "isp": "China Telecom Beijing Tianjin Hebei Big Data Industry Park Branch",
+      "country": "CN",
+      "city": "Tianjin",
+      "last_seen": "2026-02-26T08:34:56.895119",
+      "hostnames": [],
+      "domains": [],
+      "ssl_cn": null,
+      "ssl_issuer": null,
+      "ssl_fingerprint": null,
+      "jarm": null,
+      "http_title": null,
+      "http_server": null,
+      "os": null,
+      "query_matched": "product:\"Cobalt Strike\"",
+      "collected_at": "2026-02-27T12:14:09.484296Z"
+    },
+    {
+      "ip": "47.94.165.50",
+      "port": 4444,
+      "product": "Cobalt Strike Beacon",
+      "tags": [],
+      "org": "Aliyun Computing Co., LTD",
+      "asn": "AS37963",
+      "isp": "Hangzhou Alibaba Advertising Co.,Ltd.",
+      "country": "CN",
+      "city": "Beijing",
+      "last_seen": "2026-02-26T07:03:17.694623",
+      "hostnames": [],
+      "domains": [],
+      "ssl_cn": null,
+      "ssl_issuer": null,
+      "ssl_fingerprint": null,
+      "jarm": null,
+      "http_title": null,
+      "http_server": null,
+      "os": null,
+      "query_matched": "product:\"Cobalt Strike\"",
+      "collected_at": "2026-02-27T12:14:09.484299Z"
+    },
+    {
+      "ip": "38.76.195.221",
+      "port": 10000,
+      "product": "Cobalt Strike Beacon",
+      "tags": [],
+      "org": "Cogent Communications - IPENG",
+      "asn": "AS174",
+      "isp": "Cogent Communications",
+      "country": "US",
+      "city": "Washington",
+      "last_seen": "2026-02-26T01:29:46.855029",
+      "hostnames": [],
+      "domains": [],
+      "ssl_cn": null,
+      "ssl_issuer": null,
+      "ssl_fingerprint": null,
+      "jarm": null,
+      "http_title": null,
+      "http_server": null,
+      "os": null,
+      "query_matched": "product:\"Cobalt Strike\"",
+      "collected_at": "2026-02-27T12:14:09.484320Z"
+    },
+    {
+      "ip": "172.86.121.104",
+      "port": 443,
+      "product": "Cobalt Strike Beacon",
+      "tags": [
+        "self-signed"
+      ],
+      "org": "RouterHosting LLC",
+      "asn": "AS14956",
+      "isp": "RouterHosting LLC",
+      "country": "US",
+      "city": "Dallas",
+      "last_seen": "2026-02-24T19:46:27.681622",
+      "hostnames": [
+        "104.121.86.172.static.cloudzy.com"
+      ],
+      "domains": [
+        "cloudzy.com"
+      ],
+      "ssl_cn": "",
+      "ssl_issuer": "",
+      "ssl_fingerprint": "87f2085c32b6a2cc709b365f55873e207a9caa10bffecf2fd16d3cf9d94d390c",
+      "jarm": "2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
+      "http_title": null,
+      "http_server": null,
+      "os": null,
+      "query_matched": "product:\"Cobalt Strike\"",
+      "collected_at": "2026-02-27T12:14:09.484347Z"
+    },
+    {
+      "ip": "172.86.121.104",
+      "port": 80,
+      "product": "Cobalt Strike Beacon",
+      "tags": [],
+      "org": "RouterHosting LLC",
+      "asn": "AS14956",
+      "isp": "RouterHosting LLC",
+      "country": "US",
+      "city": "Dallas",
+      "last_seen": "2026-02-24T15:33:30.309758",
+      "hostnames": [
+        "104.121.86.172.static.cloudzy.com"
+      ],
+      "domains": [
+        "cloudzy.com"
+      ],
+      "ssl_cn": null,
+      "ssl_issuer": null,
+      "ssl_fingerprint": null,
+      "jarm": null,
+      "http_title": null,
+      "http_server": null,
+      "os": null,
+      "query_matched": "product:\"Cobalt Strike\"",
+      "collected_at": "2026-02-27T12:14:09.484350Z"
+    },
+    {
+      "ip": "117.72.191.140",
+      "port": 50050,
+      "product": "Cobalt Strike C2",
+      "tags": [
+        "c2"
+      ],
+      "org": "Beijing Jingdong 360 Degree E-commerce Co., Ltd.",
+      "asn": null,
+      "isp": null,
+      "country": "CN",
+      "city": "Beijing",
+      "last_seen": "2026-02-24T11:42:29.407160",
+      "hostnames": [],
+      "domains": [],
+      "ssl_cn": null,
+      "ssl_issuer": null,
+      "ssl_fingerprint": null,
+      "jarm": null,
+      "http_title": null,
+      "http_server": null,
+      "os": null,
+      "query_matched": "product:\"Cobalt Strike\"",
+      "collected_at": "2026-02-27T12:14:09.484352Z"
+    },
+    {
+      "ip": "111.228.55.96",
+      "port": 50050,
+      "product": "Cobalt Strike C2",
+      "tags": [
+        "c2"
+      ],
+      "org": "eleven street,No. 18 Institute of Jingdong headquarters",
+      "asn": null,
+      "isp": null,
+      "country": "CN",
+      "city": "Shanghai",
+      "last_seen": "2026-02-24T05:27:57.642486",
+      "hostnames": [],
+      "domains": [],
+      "ssl_cn": null,
+      "ssl_issuer": null,
+      "ssl_fingerprint": null,
+      "jarm": null,
+      "http_title": null,
+      "http_server": null,
+      "os": null,
+      "query_matched": "product:\"Cobalt Strike\"",
+      "collected_at": "2026-02-27T12:14:09.484360Z"
+    },
+    {
+      "ip": "120.48.168.57",
+      "port": 50050,
+      "product": "Cobalt Strike C2",
+      "tags": [
+        "c2"
+      ],
+      "org": "Beijing Baidu Netcom Science and Technology Co., Ltd.",
+      "asn": "AS38365",
+      "isp": "Beijing Baidu Netcom Science and Technology Co., Ltd.",
+      "country": "CN",
+      "city": "Beijing",
+      "last_seen": "2026-02-24T05:27:02.171459",
+      "hostnames": [],
+      "domains": [],
+      "ssl_cn": null,
+      "ssl_issuer": null,
+      "ssl_fingerprint": null,
+      "jarm": null,
+      "http_title": null,
+      "http_server": null,
+      "os": null,
+      "query_matched": "product:\"Cobalt Strike\"",
+      "collected_at": "2026-02-27T12:14:09.484362Z"
+    },
+    {
+      "ip": "3.110.127.255",
+      "port": 17,
+      "product": "Metasploit",
+      "tags": [
+        "cloud",
+        "c2"
+      ],
+      "org": "Amazon Data Services India",
+      "asn": "AS16509",
+      "isp": "Amazon.com, Inc.",
+      "country": "IN",
+      "city": "Mumbai",
+      "last_seen": "2026-02-27T11:57:33.301828",
+      "hostnames": [
+        "ec2-3-110-127-255.ap-south-1.compute.amazonaws.com"
+      ],
+      "domains": [
+        "amazonaws.com"
+      ],
+      "ssl_cn": null,
+      "ssl_issuer": null,
+      "ssl_fingerprint": null,
+      "jarm": null,
+      "http_title": null,
+      "http_server": "IBM_HTTP_Server/7.0.0.9 (Unix)",
+      "os": null,
+      "query_matched": "product:\"Metasploit\"",
+      "collected_at": "2026-02-27T12:14:14.994541Z"
+    },
+    {
+      "ip": "15.160.130.255",
+      "port": 389,
+      "product": "Metasploit",
+      "tags": [
+        "cloud",
+        "c2"
+      ],
+      "org": "Amazon Data Services Italy",
+      "asn": "AS16509",
+      "isp": "Amazon.com, Inc.",
+      "country": "IT",
+      "city": "Milan",
+      "last_seen": "2026-02-27T11:52:44.083001",
+      "hostnames": [
+        "ec2-15-160-130-255.eu-south-1.compute.amazonaws.com"
+      ],
+      "domains": [
+        "amazonaws.com"
+      ],
+      "ssl_cn": null,
+      "ssl_issuer": null,
+      "ssl_fingerprint": null,
+      "jarm": null,
+      "http_title": null,
+      "http_server": "Stronghold/4.0 Apache/1.3.22 (Unix) mod_ssl/2.8.7 OpenSSL/0.9.6c mod_perl/1.26",
+      "os": null,
+      "query_matched": "product:\"Metasploit\"",
+      "collected_at": "2026-02-27T12:14:14.994560Z"
+    },
+    {
+      "ip": "15.160.130.255",
+      "port": 9939,
+      "product": "Metasploit",
+      "tags": [
+        "cloud",
+        "c2"
+      ],
+      "org": "Amazon Data Services Italy",
+      "asn": "AS16509",
+      "isp": "Amazon.com, Inc.",
+      "country": "IT",
+      "city": "Milan",
+      "last_seen": "2026-02-27T11:52:10.849430",
+      "hostnames": [
+        "ec2-15-160-130-255.eu-south-1.compute.amazonaws.com"
+      ],
+      "domains": [
+        "amazonaws.com"
+      ],
+      "ssl_cn": null,
+      "ssl_issuer": null,
+      "ssl_fingerprint": null,
+      "jarm": null,
+      "http_title": null,
+      "http_server": "Stronghold/4.0 Apache/1.3.22 (Unix) mod_ssl/2.8.7 OpenSSL/0.9.6c mod_perl/1.26",
+      "os": null,
+      "query_matched": "product:\"Metasploit\"",
+      "collected_at": "2026-02-27T12:14:14.994566Z"
+    },
+    {
+      "ip": "16.78.82.109",
+      "port": 8333,
+      "product": "Metasploit",
+      "tags": [
+        "cloud",
+        "c2"
+      ],
+      "org": "Amazon Data Services Jakarta",
+      "asn": "AS16509",
+      "isp": "Amazon.com, Inc.",
+      "country": "ID",
+      "city": "Jakarta",
+      "last_seen": "2026-02-27T11:48:43.223495",
+      "hostnames": [
+        "ec2-16-78-82-109.ap-southeast-3.compute.amazonaws.com"
+      ],
+      "domains": [
+        "amazonaws.com"
+      ],
+      "ssl_cn": null,
+      "ssl_issuer": null,
+      "ssl_fingerprint": null,
+      "jarm": null,
+      "http_title": null,
+      "http_server": "Ews/0",
+      "os": null,
+      "query_matched": "product:\"Metasploit\"",
+      "collected_at": "2026-02-27T12:14:14.994572Z"
+    },
+    {
+      "ip": "3.110.127.255",
+      "port": 9017,
+      "product": "Metasploit",
+      "tags": [
+        "cloud",
+        "c2"
+      ],
+      "org": "Amazon Data Services India",
+      "asn": "AS16509",
+      "isp": "Amazon.com, Inc.",
+      "country": "IN",
+      "city": "Mumbai",
+      "last_seen": "2026-02-27T11:41:53.691289",
+      "hostnames": [
+        "ec2-3-110-127-255.ap-south-1.compute.amazonaws.com"
+      ],
+      "domains": [
+        "amazonaws.com"
+      ],
+      "ssl_cn": null,
+      "ssl_issuer": null,
+      "ssl_fingerprint": null,
+      "jarm": null,
+      "http_title": null,
+      "http_server": "IBM_HTTP_Server/7.0.0.9 (Unix)",
+      "os": null,
+      "query_matched": "product:\"Metasploit\"",
+      "collected_at": "2026-02-27T12:14:14.994576Z"
+    },
+    {
+      "ip": "18.192.100.176",
+      "port": 12409,
+      "product": "Metasploit",
+      "tags": [
+        "cloud",
+        "c2",
+        "eol-product"
+      ],
+      "org": "A100 ROW GmbH",
+      "asn": "AS16509",
+      "isp": "Amazon.com, Inc.",
+      "country": "DE",
+      "city": "Frankfurt am Main",
+      "last_seen": "2026-02-27T11:33:50.821579",
+      "hostnames": [
+        "ec2-18-192-100-176.eu-central-1.compute.amazonaws.com"
+      ],
+      "domains": [
+        "amazonaws.com"
+      ],
+      "ssl_cn": null,
+      "ssl_issuer": null,
+      "ssl_fingerprint": null,
+      "jarm": null,
+      "http_title": "Ansible AWX",
+      "http_server": "ipos/7.0 UPnP/1.0 TL-WR741N/4.0",
+      "os": null,
+      "query_matched": "product:\"Metasploit\"",
+      "collected_at": "2026-02-27T12:14:14.994581Z"
+    },
+    {
+      "ip": "18.192.100.176",
+      "port": 43009,
+      "product": "Metasploit",
+      "tags": [
+        "cloud",
+        "c2",
+        "eol-product"
+      ],
+      "org": "A100 ROW GmbH",
+      "asn": "AS16509",
+      "isp": "Amazon.com, Inc.",
+      "country": "DE",
+      "city": "Frankfurt am Main",
+      "last_seen": "2026-02-27T11:29:44.183520",
+      "hostnames": [
+        "ec2-18-192-100-176.eu-central-1.compute.amazonaws.com"
+      ],
+      "domains": [
+        "amazonaws.com"
+      ],
+      "ssl_cn": null,
+      "ssl_issuer": null,
+      "ssl_fingerprint": null,
+      "jarm": null,
+      "http_title": "Ansible AWX",
+      "http_server": "ipos/7.0 UPnP/1.0 TL-WR741N/4.0",
+      "os": null,
+      "query_matched": "product:\"Metasploit\"",
+      "collected_at": "2026-02-27T12:14:14.994586Z"
+    },
+    {
+      "ip": "15.160.130.255",
+      "port": 9089,
+      "product": "Metasploit",
+      "tags": [
+        "cloud",
+        "c2"
+      ],
+      "org": "Amazon Data Services Italy",
+      "asn": "AS16509",
+      "isp": "Amazon.com, Inc.",
+      "country": "IT",
+      "city": "Milan",
+      "last_seen": "2026-02-27T11:28:29.853116",
+      "hostnames": [
+        "ec2-15-160-130-255.eu-south-1.compute.amazonaws.com"
+      ],
+      "domains": [
+        "amazonaws.com"
+      ],
+      "ssl_cn": null,
+      "ssl_issuer": null,
+      "ssl_fingerprint": null,
+      "jarm": null,
+      "http_title": null,
+      "http_server": "Stronghold/4.0 Apache/1.3.22 (Unix) mod_ssl/2.8.7 OpenSSL/0.9.6c mod_perl/1.26",
+      "os": null,
+      "query_matched": "product:\"Metasploit\"",
+      "collected_at": "2026-02-27T12:14:14.994591Z"
+    },
+    {
+      "ip": "15.160.130.255",
+      "port": 48889,
+      "product": "Metasploit",
+      "tags": [
+        "cloud",
+        "c2"
+      ],
+      "org": "Amazon Data Services Italy",
+      "asn": "AS16509",
+      "isp": "Amazon.com, Inc.",
+      "country": "IT",
+      "city": "Milan",
+      "last_seen": "2026-02-27T11:20:49.998622",
+      "hostnames": [
+        "ec2-15-160-130-255.eu-south-1.compute.amazonaws.com"
+      ],
+      "domains": [
+        "amazonaws.com"
+      ],
+      "ssl_cn": null,
+      "ssl_issuer": null,
+      "ssl_fingerprint": null,
+      "jarm": null,
+      "http_title": null,
+      "http_server": "Stronghold/4.0 Apache/1.3.22 (Unix) mod_ssl/2.8.7 OpenSSL/0.9.6c mod_perl/1.26",
+      "os": null,
+      "query_matched": "product:\"Metasploit\"",
+      "collected_at": "2026-02-27T12:14:14.994597Z"
+    },
+    {
+      "ip": "3.110.127.255",
+      "port": 8167,
+      "product": "Metasploit",
+      "tags": [
+        "cloud",
+        "c2"
+      ],
+      "org": "Amazon Data Services India",
+      "asn": "AS16509",
+      "isp": "Amazon.com, Inc.",
+      "country": "IN",
+      "city": "Mumbai",
+      "last_seen": "2026-02-27T11:11:35.883543",
+      "hostnames": [
+        "ec2-3-110-127-255.ap-south-1.compute.amazonaws.com"
+      ],
+      "domains": [
+        "amazonaws.com"
+      ],
+      "ssl_cn": null,
+      "ssl_issuer": null,
+      "ssl_fingerprint": null,
+      "jarm": null,
+      "http_title": null,
+      "http_server": "IBM_HTTP_Server/7.0.0.9 (Unix)",
+      "os": null,
+      "query_matched": "product:\"Metasploit\"",
+      "collected_at": "2026-02-27T12:14:14.994605Z"
+    },
+    {
+      "ip": "3.110.127.255",
+      "port": 45667,
+      "product": "Metasploit",
+      "tags": [
+        "cloud",
+        "c2"
+      ],
+      "org": "Amazon Data Services India",
+      "asn": "AS16509",
+      "isp": "Amazon.com, Inc.",
+      "country": "IN",
+      "city": "Mumbai",
+      "last_seen": "2026-02-27T11:10:19.673248",
+      "hostnames": [
+        "ec2-3-110-127-255.ap-south-1.compute.amazonaws.com"
+      ],
+      "domains": [
+        "amazonaws.com"
+      ],
+      "ssl_cn": null,
+      "ssl_issuer": null,
+      "ssl_fingerprint": null,
+      "jarm": null,
+      "http_title": null,
+      "http_server": "IBM_HTTP_Server/7.0.0.9 (Unix)",
+      "os": null,
+      "query_matched": "product:\"Metasploit\"",
+      "collected_at": "2026-02-27T12:14:14.994609Z"
+    },
+    {
+      "ip": "16.78.82.109",
+      "port": 9383,
+      "product": "Metasploit",
+      "tags": [
+        "cloud",
+        "c2"
+      ],
+      "org": "Amazon Data Services Jakarta",
+      "asn": "AS16509",
+      "isp": "Amazon.com, Inc.",
+      "country": "ID",
+      "city": "Jakarta",
+      "last_seen": "2026-02-27T11:08:20.695476",
+      "hostnames": [
+        "ec2-16-78-82-109.ap-southeast-3.compute.amazonaws.com"
+      ],
+      "domains": [
+        "amazonaws.com"
+      ],
+      "ssl_cn": null,
+      "ssl_issuer": null,
+      "ssl_fingerprint": null,
+      "jarm": null,
+      "http_title": null,
+      "http_server": "Ews/0",
+      "os": null,
+      "query_matched": "product:\"Metasploit\"",
+      "collected_at": "2026-02-27T12:14:14.994613Z"
+    },
+    {
+      "ip": "3.110.127.255",
+      "port": 5567,
+      "product": "Metasploit",
+      "tags": [
+        "cloud",
+        "c2"
+      ],
+      "org": "Amazon Data Services India",
+      "asn": "AS16509",
+      "isp": "Amazon.com, Inc.",
+      "country": "IN",
+      "city": "Mumbai",
+      "last_seen": "2026-02-27T11:06:40.977093",
+      "hostnames": [
+        "ec2-3-110-127-255.ap-south-1.compute.amazonaws.com"
+      ],
+      "domains": [
+        "amazonaws.com"
+      ],
+      "ssl_cn": null,
+      "ssl_issuer": null,
+      "ssl_fingerprint": null,
+      "jarm": null,
+      "http_title": null,
+      "http_server": "IBM_HTTP_Server/7.0.0.9 (Unix)",
+      "os": null,
+      "query_matched": "product:\"Metasploit\"",
+      "collected_at": "2026-02-27T12:14:14.994617Z"
+    },
+    {
+      "ip": "3.29.27.219",
+      "port": 6001,
+      "product": "Metasploit",
+      "tags": [
+        "cloud",
+        "c2"
+      ],
+      "org": "Amazon Data Services UAE",
+      "asn": "AS16509",
+      "isp": "Amazon.com, Inc.",
+      "country": "AE",
+      "city": "Dubai",
+      "last_seen": "2026-02-27T11:01:36.296773",
+      "hostnames": [
+        "ec2-3-29-27-219.me-central-1.compute.amazonaws.com"
+      ],
+      "domains": [
+        "amazonaws.com"
+      ],
+      "ssl_cn": null,
+      "ssl_issuer": null,
+      "ssl_fingerprint": null,
+      "jarm": null,
+      "http_title": "zimbra web client sign in",
+      "http_server": "Web server",
+      "os": null,
+      "query_matched": "product:\"Metasploit\"",
+      "collected_at": "2026-02-27T12:14:14.994621Z"
+    },
+    {
+      "ip": "18.192.100.176",
+      "port": 12459,
+      "product": "Metasploit",
+      "tags": [
+        "cloud",
+        "c2",
+        "eol-product"
+      ],
+      "org": "A100 ROW GmbH",
+      "asn": "AS16509",
+      "isp": "Amazon.com, Inc.",
+      "country": "DE",
+      "city": "Frankfurt am Main",
+      "last_seen": "2026-02-27T10:56:09.198605",
+      "hostnames": [
+        "ec2-18-192-100-176.eu-central-1.compute.amazonaws.com"
+      ],
+      "domains": [
+        "amazonaws.com"
+      ],
+      "ssl_cn": null,
+      "ssl_issuer": null,
+      "ssl_fingerprint": null,
+      "jarm": null,
+      "http_title": "Ansible AWX",
+      "http_server": "ipos/7.0 UPnP/1.0 TL-WR741N/4.0",
+      "os": null,
+      "query_matched": "product:\"Metasploit\"",
+      "collected_at": "2026-02-27T12:14:14.994640Z"
+    },
+    {
+      "ip": "3.110.127.255",
+      "port": 16017,
+      "product": "Metasploit",
+      "tags": [
+        "cloud",
+        "c2"
+      ],
+      "org": "Amazon Data Services India",
+      "asn": "AS16509",
+      "isp": "Amazon.com, Inc.",
+      "country": "IN",
+      "city": "Mumbai",
+      "last_seen": "2026-02-27T10:55:15.244262",
+      "hostnames": [
+        "ec2-3-110-127-255.ap-south-1.compute.amazonaws.com"
+      ],
+      "domains": [
+        "amazonaws.com"
+      ],
+      "ssl_cn": null,
+      "ssl_issuer": null,
+      "ssl_fingerprint": null,
+      "jarm": null,
+      "http_title": null,
+      "http_server": "IBM_HTTP_Server/7.0.0.9 (Unix)",
+      "os": null,
+      "query_matched": "product:\"Metasploit\"",
+      "collected_at": "2026-02-27T12:14:14.994645Z"
+    },
+    {
+      "ip": "15.160.130.255",
+      "port": 9189,
+      "product": "Metasploit",
+      "tags": [
+        "cloud",
+        "c2"
+      ],
+      "org": "Amazon Data Services Italy",
+      "asn": "AS16509",
+      "isp": "Amazon.com, Inc.",
+      "country": "IT",
+      "city": "Milan",
+      "last_seen": "2026-02-27T10:49:24.168239",
+      "hostnames": [
+        "ec2-15-160-130-255.eu-south-1.compute.amazonaws.com"
+      ],
+      "domains": [
+        "amazonaws.com"
+      ],
+      "ssl_cn": null,
+      "ssl_issuer": null,
+      "ssl_fingerprint": null,
+      "jarm": null,
+      "http_title": null,
+      "http_server": "Stronghold/4.0 Apache/1.3.22 (Unix) mod_ssl/2.8.7 OpenSSL/0.9.6c mod_perl/1.26",
+      "os": null,
+      "query_matched": "product:\"Metasploit\"",
+      "collected_at": "2026-02-27T12:14:14.994649Z"
+    },
+    {
+      "ip": "16.78.82.109",
+      "port": 2083,
+      "product": "Metasploit",
+      "tags": [
+        "cloud",
+        "c2"
+      ],
+      "org": "Amazon Data Services Jakarta",
+      "asn": "AS16509",
+      "isp": "Amazon.com, Inc.",
+      "country": "ID",
+      "city": "Jakarta",
+      "last_seen": "2026-02-27T10:48:02.374672",
+      "hostnames": [
+        "ec2-16-78-82-109.ap-southeast-3.compute.amazonaws.com"
+      ],
+      "domains": [
+        "amazonaws.com"
+      ],
+      "ssl_cn": "v01-modality.localdomain",
+      "ssl_issuer": "Sectigo Limited",
+      "ssl_fingerprint": "e1f44c75bc268a76878f700f09dc76896da30ff5840a7a368430d167b4b94f69",
+      "jarm": "2ad2ad00000000022c42d42d0000008aa043a2ae70f1a4f70c9b5036ea9f77",
+      "http_title": null,
+      "http_server": "Ews/0",
+      "os": null,
+      "query_matched": "product:\"Metasploit\"",
+      "collected_at": "2026-02-27T12:14:14.994655Z"
+    },
+    {
+      "ip": "18.192.100.176",
+      "port": 8109,
+      "product": "Metasploit",
+      "tags": [
+        "cloud",
+        "c2",
+        "eol-product"
+      ],
+      "org": "A100 ROW GmbH",
+      "asn": "AS16509",
+      "isp": "Amazon.com, Inc.",
+      "country": "DE",
+      "city": "Frankfurt am Main",
+      "last_seen": "2026-02-27T10:39:44.860961",
+      "hostnames": [
+        "ec2-18-192-100-176.eu-central-1.compute.amazonaws.com"
+      ],
+      "domains": [
+        "amazonaws.com"
+      ],
+      "ssl_cn": null,
+      "ssl_issuer": null,
+      "ssl_fingerprint": null,
+      "jarm": null,
+      "http_title": "Ansible AWX",
+      "http_server": "ipos/7.0 UPnP/1.0 TL-WR741N/4.0",
+      "os": null,
+      "query_matched": "product:\"Metasploit\"",
+      "collected_at": "2026-02-27T12:14:14.994660Z"
+    },
+    {
+      "ip": "16.78.82.109",
+      "port": 9333,
+      "product": "Metasploit",
+      "tags": [
+        "cloud",
+        "c2"
+      ],
+      "org": "Amazon Data Services Jakarta",
+      "asn": "AS16509",
+      "isp": "Amazon.com, Inc.",
+      "country": "ID",
+      "city": "Jakarta",
+      "last_seen": "2026-02-27T10:30:42.611422",
+      "hostnames": [
+        "ec2-16-78-82-109.ap-southeast-3.compute.amazonaws.com"
+      ],
+      "domains": [
+        "amazonaws.com"
+      ],
+      "ssl_cn": null,
+      "ssl_issuer": null,
+      "ssl_fingerprint": null,
+      "jarm": null,
+      "http_title": null,
+      "http_server": "Ews/0",
+      "os": null,
+      "query_matched": "product:\"Metasploit\"",
+      "collected_at": "2026-02-27T12:14:14.994665Z"
+    },
+    {
+      "ip": "18.192.100.176",
+      "port": 12559,
+      "product": "Metasploit",
+      "tags": [
+        "cloud",
+        "c2",
+        "eol-product"
+      ],
+      "org": "A100 ROW GmbH",
+      "asn": "AS16509",
+      "isp": "Amazon.com, Inc.",
+      "country": "DE",
+      "city": "Frankfurt am Main",
+      "last_seen": "2026-02-27T10:24:22.985086",
+      "hostnames": [
+        "ec2-18-192-100-176.eu-central-1.compute.amazonaws.com"
+      ],
+      "domains": [
+        "amazonaws.com"
+      ],
+      "ssl_cn": null,
+      "ssl_issuer": null,
+      "ssl_fingerprint": null,
+      "jarm": null,
+      "http_title": "Ansible AWX",
+      "http_server": "ipos/7.0 UPnP/1.0 TL-WR741N/4.0",
+      "os": null,
+      "query_matched": "product:\"Metasploit\"",
+      "collected_at": "2026-02-27T12:14:14.994670Z"
+    },
+    {
+      "ip": "15.160.130.255",
+      "port": 12289,
+      "product": "Metasploit",
+      "tags": [
+        "cloud",
+        "c2"
+      ],
+      "org": "Amazon Data Services Italy",
+      "asn": "AS16509",
+      "isp": "Amazon.com, Inc.",
+      "country": "IT",
+      "city": "Milan",
+      "last_seen": "2026-02-27T10:20:01.785581",
+      "hostnames": [
+        "ec2-15-160-130-255.eu-south-1.compute.amazonaws.com"
+      ],
+      "domains": [
+        "amazonaws.com"
+      ],
+      "ssl_cn": null,
+      "ssl_issuer": null,
+      "ssl_fingerprint": null,
+      "jarm": null,
+      "http_title": null,
+      "http_server": "Stronghold/4.0 Apache/1.3.22 (Unix) mod_ssl/2.8.7 OpenSSL/0.9.6c mod_perl/1.26",
+      "os": null,
+      "query_matched": "product:\"Metasploit\"",
+      "collected_at": "2026-02-27T12:14:14.994673Z"
+    },
+    {
+      "ip": "15.160.130.255",
+      "port": 8889,
+      "product": "Metasploit",
+      "tags": [
+        "cloud",
+        "c2",
+        "self-signed"
+      ],
+      "org": "Amazon Data Services Italy",
+      "asn": "AS16509",
+      "isp": "Amazon.com, Inc.",
+      "country": "IT",
+      "city": "Milan",
+      "last_seen": "2026-02-27T10:12:21.795342",
+      "hostnames": [
+        "ec2-15-160-130-255.eu-south-1.compute.amazonaws.com"
+      ],
+      "domains": [
+        "amazonaws.com"
+      ],
+      "ssl_cn": "SharePoint Central Administration",
+      "ssl_issuer": null,
+      "ssl_fingerprint": "522d3690d97680f6c5ece886a01c349f5204ba3749d654473e19d5ca97026668",
+      "jarm": "2ad2ad00000000022c42d42d0000008aa043a2ae70f1a4f70c9b5036ea9f77",
+      "http_title": null,
+      "http_server": "Stronghold/4.0 Apache/1.3.22 (Unix) mod_ssl/2.8.7 OpenSSL/0.9.6c mod_perl/1.26",
+      "os": null,
+      "query_matched": "product:\"Metasploit\"",
+      "collected_at": "2026-02-27T12:14:14.994677Z"
+    },
+    {
+      "ip": "3.110.127.255",
+      "port": 8017,
+      "product": "Metasploit",
+      "tags": [
+        "cloud",
+        "c2"
+      ],
+      "org": "Amazon Data Services India",
+      "asn": "AS16509",
+      "isp": "Amazon.com, Inc.",
+      "country": "IN",
+      "city": "Mumbai",
+      "last_seen": "2026-02-27T10:09:13.871367",
+      "hostnames": [
+        "ec2-3-110-127-255.ap-south-1.compute.amazonaws.com"
+      ],
+      "domains": [
+        "amazonaws.com"
+      ],
+      "ssl_cn": null,
+      "ssl_issuer": null,
+      "ssl_fingerprint": null,
+      "jarm": null,
+      "http_title": null,
+      "http_server": "IBM_HTTP_Server/7.0.0.9 (Unix)",
+      "os": null,
+      "query_matched": "product:\"Metasploit\"",
+      "collected_at": "2026-02-27T12:14:14.994680Z"
+    },
+    {
+      "ip": "18.192.100.176",
+      "port": 2259,
+      "product": "Metasploit",
+      "tags": [
+        "cloud",
+        "c2",
+        "eol-product"
+      ],
+      "org": "A100 ROW GmbH",
+      "asn": "AS16509",
+      "isp": "Amazon.com, Inc.",
+      "country": "DE",
+      "city": "Frankfurt am Main",
+      "last_seen": "2026-02-27T10:02:06.124264",
+      "hostnames": [
+        "ec2-18-192-100-176.eu-central-1.compute.amazonaws.com"
+      ],
+      "domains": [
+        "amazonaws.com"
+      ],
+      "ssl_cn": null,
+      "ssl_issuer": null,
+      "ssl_fingerprint": null,
+      "jarm": null,
+      "http_title": "Ansible AWX",
+      "http_server": "ipos/7.0 UPnP/1.0 TL-WR741N/4.0",
+      "os": null,
+      "query_matched": "product:\"Metasploit\"",
+      "collected_at": "2026-02-27T12:14:14.994683Z"
+    },
+    {
+      "ip": "18.192.100.176",
+      "port": 3559,
+      "product": "Metasploit",
+      "tags": [
+        "cloud",
+        "c2",
+        "eol-product"
+      ],
+      "org": "A100 ROW GmbH",
+      "asn": "AS16509",
+      "isp": "Amazon.com, Inc.",
+      "country": "DE",
+      "city": "Frankfurt am Main",
+      "last_seen": "2026-02-27T10:01:57.058869",
+      "hostnames": [
+        "ec2-18-192-100-176.eu-central-1.compute.amazonaws.com"
+      ],
+      "domains": [
+        "amazonaws.com"
+      ],
+      "ssl_cn": null,
+      "ssl_issuer": null,
+      "ssl_fingerprint": null,
+      "jarm": null,
+      "http_title": "Ansible AWX",
+      "http_server": "ipos/7.0 UPnP/1.0 TL-WR741N/4.0",
+      "os": null,
+      "query_matched": "product:\"Metasploit\"",
+      "collected_at": "2026-02-27T12:14:14.994685Z"
+    },
+    {
+      "ip": "18.192.100.176",
+      "port": 9159,
+      "product": "Metasploit",
+      "tags": [
+        "cloud",
+        "c2",
+        "eol-product"
+      ],
+      "org": "A100 ROW GmbH",
+      "asn": "AS16509",
+      "isp": "Amazon.com, Inc.",
+      "country": "DE",
+      "city": "Frankfurt am Main",
+      "last_seen": "2026-02-27T10:01:29.169471",
+      "hostnames": [
+        "ec2-18-192-100-176.eu-central-1.compute.amazonaws.com"
+      ],
+      "domains": [
+        "amazonaws.com"
+      ],
+      "ssl_cn": null,
+      "ssl_issuer": null,
+      "ssl_fingerprint": null,
+      "jarm": null,
+      "http_title": "Ansible AWX",
+      "http_server": "ipos/7.0 UPnP/1.0 TL-WR741N/4.0",
+      "os": null,
+      "query_matched": "product:\"Metasploit\"",
+      "collected_at": "2026-02-27T12:14:14.994688Z"
+    },
+    {
+      "ip": "18.192.100.176",
+      "port": 9209,
+      "product": "Metasploit",
+      "tags": [
+        "cloud",
+        "c2",
+        "eol-product"
+      ],
+      "org": "A100 ROW GmbH",
+      "asn": "AS16509",
+      "isp": "Amazon.com, Inc.",
+      "country": "DE",
+      "city": "Frankfurt am Main",
+      "last_seen": "2026-02-27T10:00:28.403853",
+      "hostnames": [
+        "ec2-18-192-100-176.eu-central-1.compute.amazonaws.com"
+      ],
+      "domains": [
+        "amazonaws.com"
+      ],
+      "ssl_cn": null,
+      "ssl_issuer": null,
+      "ssl_fingerprint": null,
+      "jarm": null,
+      "http_title": "Ansible AWX",
+      "http_server": "ipos/7.0 UPnP/1.0 TL-WR741N/4.0",
+      "os": null,
+      "query_matched": "product:\"Metasploit\"",
+      "collected_at": "2026-02-27T12:14:14.994691Z"
+    },
+    {
+      "ip": "18.192.100.176",
+      "port": 9309,
+      "product": "Metasploit",
+      "tags": [
+        "cloud",
+        "c2",
+        "eol-product"
+      ],
+      "org": "A100 ROW GmbH",
+      "asn": "AS16509",
+      "isp": "Amazon.com, Inc.",
+      "country": "DE",
+      "city": "Frankfurt am Main",
+      "last_seen": "2026-02-27T09:59:15.360020",
+      "hostnames": [
+        "ec2-18-192-100-176.eu-central-1.compute.amazonaws.com"
+      ],
+      "domains": [
+        "amazonaws.com"
+      ],
+      "ssl_cn": null,
+      "ssl_issuer": null,
+      "ssl_fingerprint": null,
+      "jarm": null,
+      "http_title": "Ansible AWX",
+      "http_server": "ipos/7.0 UPnP/1.0 TL-WR741N/4.0",
+      "os": null,
+      "query_matched": "product:\"Metasploit\"",
+      "collected_at": "2026-02-27T12:14:14.994694Z"
+    },
+    {
+      "ip": "16.78.82.109",
+      "port": 9433,
+      "product": "Metasploit",
+      "tags": [
+        "cloud",
+        "c2"
+      ],
+      "org": "Amazon Data Services Jakarta",
+      "asn": "AS16509",
+      "isp": "Amazon.com, Inc.",
+      "country": "ID",
+      "city": "Jakarta",
+      "last_seen": "2026-02-27T09:50:43.602944",
+      "hostnames": [
+        "ec2-16-78-82-109.ap-southeast-3.compute.amazonaws.com"
+      ],
+      "domains": [
+        "amazonaws.com"
+      ],
+      "ssl_cn": null,
+      "ssl_issuer": null,
+      "ssl_fingerprint": null,
+      "jarm": null,
+      "http_title": null,
+      "http_server": "Ews/0",
+      "os": null,
+      "query_matched": "product:\"Metasploit\"",
+      "collected_at": "2026-02-27T12:14:14.994698Z"
+    },
+    {
+      "ip": "18.192.100.176",
+      "port": 8859,
+      "product": "Metasploit",
+      "tags": [
+        "cloud",
+        "c2",
+        "eol-product"
+      ],
+      "org": "A100 ROW GmbH",
+      "asn": "AS16509",
+      "isp": "Amazon.com, Inc.",
+      "country": "DE",
+      "city": "Frankfurt am Main",
+      "last_seen": "2026-02-27T09:50:00.924929",
+      "hostnames": [
+        "ec2-18-192-100-176.eu-central-1.compute.amazonaws.com"
+      ],
+      "domains": [
+        "amazonaws.com"
+      ],
+      "ssl_cn": null,
+      "ssl_issuer": null,
+      "ssl_fingerprint": null,
+      "jarm": null,
+      "http_title": "Ansible AWX",
+      "http_server": "ipos/7.0 UPnP/1.0 TL-WR741N/4.0",
+      "os": null,
+      "query_matched": "product:\"Metasploit\"",
+      "collected_at": "2026-02-27T12:14:14.994701Z"
+    },
+    {
+      "ip": "15.160.130.255",
+      "port": 189,
+      "product": "Metasploit",
+      "tags": [
+        "cloud",
+        "c2"
+      ],
+      "org": "Amazon Data Services Italy",
+      "asn": "AS16509",
+      "isp": "Amazon.com, Inc.",
+      "country": "IT",
+      "city": "Milan",
+      "last_seen": "2026-02-27T09:38:13.240697",
+      "hostnames": [
+        "ec2-15-160-130-255.eu-south-1.compute.amazonaws.com"
+      ],
+      "domains": [
+        "amazonaws.com"
+      ],
+      "ssl_cn": null,
+      "ssl_issuer": null,
+      "ssl_fingerprint": null,
+      "jarm": null,
+      "http_title": null,
+      "http_server": "Stronghold/4.0 Apache/1.3.22 (Unix) mod_ssl/2.8.7 OpenSSL/0.9.6c mod_perl/1.26",
+      "os": null,
+      "query_matched": "product:\"Metasploit\"",
+      "collected_at": "2026-02-27T12:14:14.994704Z"
+    },
+    {
+      "ip": "3.110.127.255",
+      "port": 12267,
+      "product": "Metasploit",
+      "tags": [
+        "cloud",
+        "c2"
+      ],
+      "org": "Amazon Data Services India",
+      "asn": "AS16509",
+      "isp": "Amazon.com, Inc.",
+      "country": "IN",
+      "city": "Mumbai",
+      "last_seen": "2026-02-27T09:36:59.389578",
+      "hostnames": [
+        "ec2-3-110-127-255.ap-south-1.compute.amazonaws.com"
+      ],
+      "domains": [
+        "amazonaws.com"
+      ],
+      "ssl_cn": null,
+      "ssl_issuer": null,
+      "ssl_fingerprint": null,
+      "jarm": null,
+      "http_title": null,
+      "http_server": "IBM_HTTP_Server/7.0.0.9 (Unix)",
+      "os": null,
+      "query_matched": "product:\"Metasploit\"",
+      "collected_at": "2026-02-27T12:14:14.994706Z"
+    },
+    {
+      "ip": "16.78.82.109",
+      "port": 8583,
+      "product": "Metasploit",
+      "tags": [
+        "cloud",
+        "c2"
+      ],
+      "org": "Amazon Data Services Jakarta",
+      "asn": "AS16509",
+      "isp": "Amazon.com, Inc.",
+      "country": "ID",
+      "city": "Jakarta",
+      "last_seen": "2026-02-27T09:32:44.179382",
+      "hostnames": [
+        "ec2-16-78-82-109.ap-southeast-3.compute.amazonaws.com"
+      ],
+      "domains": [
+        "amazonaws.com"
+      ],
+      "ssl_cn": null,
+      "ssl_issuer": null,
+      "ssl_fingerprint": null,
+      "jarm": null,
+      "http_title": null,
+      "http_server": "Ews/0",
+      "os": null,
+      "query_matched": "product:\"Metasploit\"",
+      "collected_at": "2026-02-27T12:14:14.994708Z"
+    },
+    {
+      "ip": "16.78.82.109",
+      "port": 8383,
+      "product": "Metasploit",
+      "tags": [
+        "cloud",
+        "c2"
+      ],
+      "org": "Amazon Data Services Jakarta",
+      "asn": "AS16509",
+      "isp": "Amazon.com, Inc.",
+      "country": "ID",
+      "city": "Jakarta",
+      "last_seen": "2026-02-27T09:32:30.175409",
+      "hostnames": [
+        "ec2-16-78-82-109.ap-southeast-3.compute.amazonaws.com"
+      ],
+      "domains": [
+        "amazonaws.com"
+      ],
+      "ssl_cn": null,
+      "ssl_issuer": null,
+      "ssl_fingerprint": null,
+      "jarm": null,
+      "http_title": null,
+      "http_server": "Ews/0",
+      "os": null,
+      "query_matched": "product:\"Metasploit\"",
+      "collected_at": "2026-02-27T12:14:14.994711Z"
+    },
+    {
+      "ip": "3.110.127.255",
+      "port": 16667,
+      "product": "Metasploit",
+      "tags": [
+        "cloud",
+        "c2"
+      ],
+      "org": "Amazon Data Services India",
+      "asn": "AS16509",
+      "isp": "Amazon.com, Inc.",
+      "country": "IN",
+      "city": "Mumbai",
+      "last_seen": "2026-02-27T09:28:16.686022",
+      "hostnames": [
+        "ec2-3-110-127-255.ap-south-1.compute.amazonaws.com"
+      ],
+      "domains": [
+        "amazonaws.com"
+      ],
+      "ssl_cn": null,
+      "ssl_issuer": null,
+      "ssl_fingerprint": null,
+      "jarm": null,
+      "http_title": null,
+      "http_server": "IBM_HTTP_Server/7.0.0.9 (Unix)",
+      "os": null,
+      "query_matched": "product:\"Metasploit\"",
+      "collected_at": "2026-02-27T12:14:14.994713Z"
+    },
+    {
+      "ip": "15.160.130.255",
+      "port": 8139,
+      "product": "Metasploit",
+      "tags": [
+        "cloud",
+        "c2",
+        "self-signed"
+      ],
+      "org": "Amazon Data Services Italy",
+      "asn": "AS16509",
+      "isp": "Amazon.com, Inc.",
+      "country": "IT",
+      "city": "Milan",
+      "last_seen": "2026-02-27T09:23:56.912336",
+      "hostnames": [
+        "ec2-15-160-130-255.eu-south-1.compute.amazonaws.com"
+      ],
+      "domains": [
+        "amazonaws.com"
+      ],
+      "ssl_cn": "SharePoint Central Administration",
+      "ssl_issuer": null,
+      "ssl_fingerprint": "522d3690d97680f6c5ece886a01c349f5204ba3749d654473e19d5ca97026668",
+      "jarm": "2ad2ad00000000022c42d42d0000008aa043a2ae70f1a4f70c9b5036ea9f77",
+      "http_title": null,
+      "http_server": "Stronghold/4.0 Apache/1.3.22 (Unix) mod_ssl/2.8.7 OpenSSL/0.9.6c mod_perl/1.26",
+      "os": null,
+      "query_matched": "product:\"Metasploit\"",
+      "collected_at": "2026-02-27T12:14:14.994717Z"
+    },
+    {
+      "ip": "16.78.82.109",
+      "port": 13333,
+      "product": "Metasploit",
+      "tags": [
+        "cloud",
+        "c2"
+      ],
+      "org": "Amazon Data Services Jakarta",
+      "asn": "AS16509",
+      "isp": "Amazon.com, Inc.",
+      "country": "ID",
+      "city": "Jakarta",
+      "last_seen": "2026-02-27T09:22:26.614059",
+      "hostnames": [
+        "ec2-16-78-82-109.ap-southeast-3.compute.amazonaws.com"
+      ],
+      "domains": [
+        "amazonaws.com"
+      ],
+      "ssl_cn": null,
+      "ssl_issuer": null,
+      "ssl_fingerprint": null,
+      "jarm": null,
+      "http_title": null,
+      "http_server": "Ews/0",
+      "os": null,
+      "query_matched": "product:\"Metasploit\"",
+      "collected_at": "2026-02-27T12:14:14.994719Z"
+    },
+    {
+      "ip": "16.78.82.109",
+      "port": 10533,
+      "product": "Metasploit",
+      "tags": [
+        "cloud",
+        "c2"
+      ],
+      "org": "Amazon Data Services Jakarta",
+      "asn": "AS16509",
+      "isp": "Amazon.com, Inc.",
+      "country": "ID",
+      "city": "Jakarta",
+      "last_seen": "2026-02-27T09:16:26.907394",
+      "hostnames": [
+        "ec2-16-78-82-109.ap-southeast-3.compute.amazonaws.com"
+      ],
+      "domains": [
+        "amazonaws.com"
+      ],
+      "ssl_cn": null,
+      "ssl_issuer": null,
+      "ssl_fingerprint": null,
+      "jarm": null,
+      "http_title": null,
+      "http_server": "Ews/0",
+      "os": null,
+      "query_matched": "product:\"Metasploit\"",
+      "collected_at": "2026-02-27T12:14:14.994722Z"
+    },
+    {
+      "ip": "15.160.130.255",
+      "port": 12189,
+      "product": "Metasploit",
+      "tags": [
+        "cloud",
+        "c2"
+      ],
+      "org": "Amazon Data Services Italy",
+      "asn": "AS16509",
+      "isp": "Amazon.com, Inc.",
+      "country": "IT",
+      "city": "Milan",
+      "last_seen": "2026-02-27T09:10:43.161087",
+      "hostnames": [
+        "ec2-15-160-130-255.eu-south-1.compute.amazonaws.com"
+      ],
+      "domains": [
+        "amazonaws.com"
+      ],
+      "ssl_cn": null,
+      "ssl_issuer": null,
+      "ssl_fingerprint": null,
+      "jarm": null,
+      "http_title": null,
+      "http_server": "Stronghold/4.0 Apache/1.3.22 (Unix) mod_ssl/2.8.7 OpenSSL/0.9.6c mod_perl/1.26",
+      "os": null,
+      "query_matched": "product:\"Metasploit\"",
+      "collected_at": "2026-02-27T12:14:14.994724Z"
+    },
+    {
+      "ip": "3.110.127.255",
+      "port": 5917,
+      "product": "Metasploit",
+      "tags": [
+        "cloud",
+        "c2"
+      ],
+      "org": "Amazon Data Services India",
+      "asn": "AS16509",
+      "isp": "Amazon.com, Inc.",
+      "country": "IN",
+      "city": "Mumbai",
+      "last_seen": "2026-02-27T09:09:14.722479",
+      "hostnames": [
+        "ec2-3-110-127-255.ap-south-1.compute.amazonaws.com"
+      ],
+      "domains": [
+        "amazonaws.com"
+      ],
+      "ssl_cn": null,
+      "ssl_issuer": null,
+      "ssl_fingerprint": null,
+      "jarm": null,
+      "http_title": null,
+      "http_server": "IBM_HTTP_Server/7.0.0.9 (Unix)",
+      "os": null,
+      "query_matched": "product:\"Metasploit\"",
+      "collected_at": "2026-02-27T12:14:14.994727Z"
+    },
+    {
+      "ip": "16.78.82.109",
+      "port": 9183,
+      "product": "Metasploit",
+      "tags": [
+        "cloud",
+        "c2"
+      ],
+      "org": "Amazon Data Services Jakarta",
+      "asn": "AS16509",
+      "isp": "Amazon.com, Inc.",
+      "country": "ID",
+      "city": "Jakarta",
+      "last_seen": "2026-02-27T09:08:24.396721",
+      "hostnames": [
+        "ec2-16-78-82-109.ap-southeast-3.compute.amazonaws.com"
+      ],
+      "domains": [
+        "amazonaws.com"
+      ],
+      "ssl_cn": null,
+      "ssl_issuer": null,
+      "ssl_fingerprint": null,
+      "jarm": null,
+      "http_title": null,
+      "http_server": "Ews/0",
+      "os": null,
+      "query_matched": "product:\"Metasploit\"",
+      "collected_at": "2026-02-27T12:14:14.994729Z"
+    },
+    {
+      "ip": "18.163.194.1",
+      "port": 2008,
+      "product": "Metasploit",
+      "tags": [
+        "cloud",
+        "c2"
+      ],
+      "org": "Amazon Data Services Hong Kong",
+      "asn": "AS16509",
+      "isp": "Amazon.com, Inc.",
+      "country": "HK",
+      "city": "Hong Kong",
+      "last_seen": "2026-02-27T09:06:37.585947",
+      "hostnames": [
+        "ec2-18-163-194-1.ap-east-1.compute.amazonaws.com"
+      ],
+      "domains": [
+        "amazonaws.com"
+      ],
+      "ssl_cn": null,
+      "ssl_issuer": null,
+      "ssl_fingerprint": null,
+      "jarm": null,
+      "http_title": null,
+      "http_server": "apache-ssl-us",
+      "os": null,
+      "query_matched": "product:\"Metasploit\"",
+      "collected_at": "2026-02-27T12:14:14.994732Z"
+    },
+    {
+      "ip": "18.192.100.176",
+      "port": 8009,
+      "product": "Metasploit",
+      "tags": [
+        "cloud",
+        "c2",
+        "eol-product"
+      ],
+      "org": "A100 ROW GmbH",
+      "asn": "AS16509",
+      "isp": "Amazon.com, Inc.",
+      "country": "DE",
+      "city": "Frankfurt am Main",
+      "last_seen": "2026-02-27T09:05:05.137013",
+      "hostnames": [
+        "ec2-18-192-100-176.eu-central-1.compute.amazonaws.com"
+      ],
+      "domains": [
+        "amazonaws.com"
+      ],
+      "ssl_cn": null,
+      "ssl_issuer": null,
+      "ssl_fingerprint": null,
+      "jarm": null,
+      "http_title": "Ansible AWX",
+      "http_server": "ipos/7.0 UPnP/1.0 TL-WR741N/4.0",
+      "os": null,
+      "query_matched": "product:\"Metasploit\"",
+      "collected_at": "2026-02-27T12:14:14.994735Z"
+    },
+    {
+      "ip": "16.78.82.109",
+      "port": 44333,
+      "product": "Metasploit",
+      "tags": [
+        "cloud",
+        "c2"
+      ],
+      "org": "Amazon Data Services Jakarta",
+      "asn": "AS16509",
+      "isp": "Amazon.com, Inc.",
+      "country": "ID",
+      "city": "Jakarta",
+      "last_seen": "2026-02-27T08:53:49.489296",
+      "hostnames": [
+        "ec2-16-78-82-109.ap-southeast-3.compute.amazonaws.com"
+      ],
+      "domains": [
+        "amazonaws.com"
+      ],
+      "ssl_cn": null,
+      "ssl_issuer": null,
+      "ssl_fingerprint": null,
+      "jarm": null,
+      "http_title": null,
+      "http_server": "Ews/0",
+      "os": null,
+      "query_matched": "product:\"Metasploit\"",
+      "collected_at": "2026-02-27T12:14:14.994738Z"
+    },
+    {
+      "ip": "51.16.48.44",
+      "port": 12144,
+      "product": "Metasploit",
+      "tags": [
+        "cloud",
+        "c2"
+      ],
+      "org": "A100 Row Inc",
+      "asn": "AS16509",
+      "isp": "Amazon.com, Inc.",
+      "country": "IL",
+      "city": "Tel Aviv",
+      "last_seen": "2026-02-27T08:20:38.305371",
+      "hostnames": [
+        "ec2-51-16-48-44.il-central-1.compute.amazonaws.com"
+      ],
+      "domains": [
+        "amazonaws.com"
+      ],
+      "ssl_cn": null,
+      "ssl_issuer": null,
+      "ssl_fingerprint": null,
+      "jarm": null,
+      "http_title": null,
+      "http_server": "Oracle-Application-Server-10g/10.1.2.2.0 Oracle-HTTP-Server OracleAS-Web-Cache-10g/10.1.2.2.0 (N;ecid=153541209221,0)",
+      "os": null,
+      "query_matched": "product:\"Metasploit\"",
+      "collected_at": "2026-02-27T12:14:14.994740Z"
+    },
+    {
+      "ip": "15.160.130.255",
+      "port": 8789,
+      "product": "Metasploit",
+      "tags": [
+        "cloud",
+        "c2"
+      ],
+      "org": "Amazon Data Services Italy",
+      "asn": "AS16509",
+      "isp": "Amazon.com, Inc.",
+      "country": "IT",
+      "city": "Milan",
+      "last_seen": "2026-02-27T08:10:57.857496",
+      "hostnames": [
+        "ec2-15-160-130-255.eu-south-1.compute.amazonaws.com"
+      ],
+      "domains": [
+        "amazonaws.com"
+      ],
+      "ssl_cn": null,
+      "ssl_issuer": null,
+      "ssl_fingerprint": null,
+      "jarm": null,
+      "http_title": null,
+      "http_server": "Stronghold/4.0 Apache/1.3.22 (Unix) mod_ssl/2.8.7 OpenSSL/0.9.6c mod_perl/1.26",
+      "os": null,
+      "query_matched": "product:\"Metasploit\"",
+      "collected_at": "2026-02-27T12:14:14.994743Z"
+    },
+    {
+      "ip": "16.78.82.109",
+      "port": 5083,
+      "product": "Metasploit",
+      "tags": [
+        "cloud",
+        "c2"
+      ],
+      "org": "Amazon Data Services Jakarta",
+      "asn": "AS16509",
+      "isp": "Amazon.com, Inc.",
+      "country": "ID",
+      "city": "Jakarta",
+      "last_seen": "2026-02-27T07:24:39.177471",
+      "hostnames": [
+        "ec2-16-78-82-109.ap-southeast-3.compute.amazonaws.com"
+      ],
+      "domains": [
+        "amazonaws.com"
+      ],
+      "ssl_cn": null,
+      "ssl_issuer": null,
+      "ssl_fingerprint": null,
+      "jarm": null,
+      "http_title": null,
+      "http_server": "Ews/0",
+      "os": null,
+      "query_matched": "product:\"Metasploit\"",
+      "collected_at": "2026-02-27T12:14:14.994746Z"
+    },
+    {
+      "ip": "16.78.82.109",
+      "port": 83,
+      "product": "Metasploit",
+      "tags": [
+        "cloud",
+        "c2"
+      ],
+      "org": "Amazon Data Services Jakarta",
+      "asn": "AS16509",
+      "isp": "Amazon.com, Inc.",
+      "country": "ID",
+      "city": "Jakarta",
+      "last_seen": "2026-02-27T07:20:00.172834",
+      "hostnames": [
+        "ec2-16-78-82-109.ap-southeast-3.compute.amazonaws.com"
+      ],
+      "domains": [
+        "amazonaws.com"
+      ],
+      "ssl_cn": null,
+      "ssl_issuer": null,
+      "ssl_fingerprint": null,
+      "jarm": null,
+      "http_title": null,
+      "http_server": "Ews/0",
+      "os": null,
+      "query_matched": "product:\"Metasploit\"",
+      "collected_at": "2026-02-27T12:14:14.994748Z"
+    },
+    {
+      "ip": "16.78.82.109",
+      "port": 5433,
+      "product": "Metasploit",
+      "tags": [
+        "cloud",
+        "c2"
+      ],
+      "org": "Amazon Data Services Jakarta",
+      "asn": "AS16509",
+      "isp": "Amazon.com, Inc.",
+      "country": "ID",
+      "city": "Jakarta",
+      "last_seen": "2026-02-27T07:19:50.426514",
+      "hostnames": [
+        "ec2-16-78-82-109.ap-southeast-3.compute.amazonaws.com"
+      ],
+      "domains": [
+        "amazonaws.com"
+      ],
+      "ssl_cn": null,
+      "ssl_issuer": null,
+      "ssl_fingerprint": null,
+      "jarm": null,
+      "http_title": null,
+      "http_server": "Ews/0",
+      "os": null,
+      "query_matched": "product:\"Metasploit\"",
+      "collected_at": "2026-02-27T12:14:14.994752Z"
+    },
+    {
+      "ip": "16.78.82.109",
+      "port": 8083,
+      "product": "Metasploit",
+      "tags": [
+        "cloud",
+        "c2"
+      ],
+      "org": "Amazon Data Services Jakarta",
+      "asn": "AS16509",
+      "isp": "Amazon.com, Inc.",
+      "country": "ID",
+      "city": "Jakarta",
+      "last_seen": "2026-02-27T07:18:38.162462",
+      "hostnames": [
+        "ec2-16-78-82-109.ap-southeast-3.compute.amazonaws.com"
+      ],
+      "domains": [
+        "amazonaws.com"
+      ],
+      "ssl_cn": "v01-modality.localdomain",
+      "ssl_issuer": "Sectigo Limited",
+      "ssl_fingerprint": "e1f44c75bc268a76878f700f09dc76896da30ff5840a7a368430d167b4b94f69",
+      "jarm": "2ad2ad00000000022c42d42d0000008aa043a2ae70f1a4f70c9b5036ea9f77",
+      "http_title": null,
+      "http_server": "Ews/0",
+      "os": null,
+      "query_matched": "product:\"Metasploit\"",
+      "collected_at": "2026-02-27T12:14:14.994756Z"
+    },
+    {
+      "ip": "16.78.82.109",
+      "port": 45333,
+      "product": "Metasploit",
+      "tags": [
+        "cloud",
+        "c2"
+      ],
+      "org": "Amazon Data Services Jakarta",
+      "asn": "AS16509",
+      "isp": "Amazon.com, Inc.",
+      "country": "ID",
+      "city": "Jakarta",
+      "last_seen": "2026-02-27T07:17:47.484933",
+      "hostnames": [
+        "ec2-16-78-82-109.ap-southeast-3.compute.amazonaws.com"
+      ],
+      "domains": [
+        "amazonaws.com"
+      ],
+      "ssl_cn": null,
+      "ssl_issuer": null,
+      "ssl_fingerprint": null,
+      "jarm": null,
+      "http_title": null,
+      "http_server": "Ews/0",
+      "os": null,
+      "query_matched": "product:\"Metasploit\"",
+      "collected_at": "2026-02-27T12:14:14.994758Z"
+    },
+    {
+      "ip": "16.78.82.109",
+      "port": 12433,
+      "product": "Metasploit",
+      "tags": [
+        "cloud",
+        "c2"
+      ],
+      "org": "Amazon Data Services Jakarta",
+      "asn": "AS16509",
+      "isp": "Amazon.com, Inc.",
+      "country": "ID",
+      "city": "Jakarta",
+      "last_seen": "2026-02-27T07:01:28.456090",
+      "hostnames": [
+        "ec2-16-78-82-109.ap-southeast-3.compute.amazonaws.com"
+      ],
+      "domains": [
+        "amazonaws.com"
+      ],
+      "ssl_cn": null,
+      "ssl_issuer": null,
+      "ssl_fingerprint": null,
+      "jarm": null,
+      "http_title": null,
+      "http_server": "Ews/0",
+      "os": null,
+      "query_matched": "product:\"Metasploit\"",
+      "collected_at": "2026-02-27T12:14:14.994761Z"
+    },
+    {
+      "ip": "16.78.82.109",
+      "port": 12183,
+      "product": "Metasploit",
+      "tags": [
+        "cloud",
+        "c2"
+      ],
+      "org": "Amazon Data Services Jakarta",
+      "asn": "AS16509",
+      "isp": "Amazon.com, Inc.",
+      "country": "ID",
+      "city": "Jakarta",
+      "last_seen": "2026-02-27T06:59:33.484283",
+      "hostnames": [
+        "ec2-16-78-82-109.ap-southeast-3.compute.amazonaws.com"
+      ],
+      "domains": [
+        "amazonaws.com"
+      ],
+      "ssl_cn": null,
+      "ssl_issuer": null,
+      "ssl_fingerprint": null,
+      "jarm": null,
+      "http_title": null,
+      "http_server": "Ews/0",
+      "os": null,
+      "query_matched": "product:\"Metasploit\"",
+      "collected_at": "2026-02-27T12:14:14.994763Z"
+    },
+    {
+      "ip": "15.160.130.255",
+      "port": 9289,
+      "product": "Metasploit",
+      "tags": [
+        "cloud",
+        "c2"
+      ],
+      "org": "Amazon Data Services Italy",
+      "asn": "AS16509",
+      "isp": "Amazon.com, Inc.",
+      "country": "IT",
+      "city": "Milan",
+      "last_seen": "2026-02-27T06:43:59.991280",
+      "hostnames": [
+        "ec2-15-160-130-255.eu-south-1.compute.amazonaws.com"
+      ],
+      "domains": [
+        "amazonaws.com"
+      ],
+      "ssl_cn": null,
+      "ssl_issuer": null,
+      "ssl_fingerprint": null,
+      "jarm": null,
+      "http_title": null,
+      "http_server": "Stronghold/4.0 Apache/1.3.22 (Unix) mod_ssl/2.8.7 OpenSSL/0.9.6c mod_perl/1.26",
+      "os": null,
+      "query_matched": "product:\"Metasploit\"",
+      "collected_at": "2026-02-27T12:14:14.994766Z"
+    },
+    {
+      "ip": "18.192.100.176",
+      "port": 8159,
+      "product": "Metasploit",
+      "tags": [
+        "cloud",
+        "c2",
+        "eol-product"
+      ],
+      "org": "A100 ROW GmbH",
+      "asn": "AS16509",
+      "isp": "Amazon.com, Inc.",
+      "country": "DE",
+      "city": "Frankfurt am Main",
+      "last_seen": "2026-02-27T06:31:12.874450",
+      "hostnames": [
+        "ec2-18-192-100-176.eu-central-1.compute.amazonaws.com"
+      ],
+      "domains": [
+        "amazonaws.com"
+      ],
+      "ssl_cn": null,
+      "ssl_issuer": null,
+      "ssl_fingerprint": null,
+      "jarm": null,
+      "http_title": "Ansible AWX",
+      "http_server": "ipos/7.0 UPnP/1.0 TL-WR741N/4.0",
+      "os": null,
+      "query_matched": "product:\"Metasploit\"",
+      "collected_at": "2026-02-27T12:14:14.994804Z"
+    },
+    {
+      "ip": "167.71.4.231",
+      "port": 3790,
+      "product": "Metasploit",
+      "tags": [
+        "cloud",
+        "c2"
+      ],
+      "org": "DigitalOcean, LLC",
+      "asn": "AS14061",
+      "isp": "DigitalOcean, LLC",
+      "country": "NL",
+      "city": "Amsterdam",
+      "last_seen": "2026-02-27T06:27:35.242457",
+      "hostnames": [
+        "nmap.onvio.nl"
+      ],
+      "domains": [
+        "onvio.nl"
+      ],
+      "ssl_cn": "localhost",
+      "ssl_issuer": "Rapid7",
+      "ssl_fingerprint": "f04aa44473f2b747b3b27ec73101aba6aa6ff9e856d37b162b608a31000bcc9d",
+      "jarm": "2ad2ad0002ad2ad0002ad2ad2ad2ade1a3c0d7ca6ad8388057924be83dfc6a",
+      "http_title": "Metasploit - Setup and Configuration",
+      "http_server": "nginx",
+      "os": null,
+      "query_matched": "product:\"Metasploit\"",
+      "collected_at": "2026-02-27T12:14:14.994826Z"
+    },
+    {
+      "ip": "45.227.254.6",
+      "port": 3790,
+      "product": "Metasploit",
+      "tags": [
+        "c2"
+      ],
+      "org": "XWIN UNIVERSAL LTD",
+      "asn": "AS267784",
+      "isp": "Flyservers S.A.",
+      "country": "LT",
+      "city": "Vilnius",
+      "last_seen": "2026-02-27T06:27:07.962327",
+      "hostnames": [],
+      "domains": [],
+      "ssl_cn": "localhost",
+      "ssl_issuer": "Rapid7",
+      "ssl_fingerprint": "fcd225a23f0a209448a7a354f3239358765d38693ab18fcb396b06cbacb0176f",
+      "jarm": "2ad2ad0002ad2ad0002ad2ad2ad2ad4559f8e10cb8687304fce1c6e19fd405",
+      "http_title": "Metasploit",
+      "http_server": "nginx",
+      "os": null,
+      "query_matched": "product:\"Metasploit\"",
+      "collected_at": "2026-02-27T12:14:14.994831Z"
+    },
+    {
+      "ip": "45.126.134.37",
+      "port": 3790,
+      "product": "Metasploit",
+      "tags": [
+        "c2"
+      ],
+      "org": "PT. Cyberindo Mega Persada",
+      "asn": "AS132644",
+      "isp": "PT. Cyberindo Mega Persada",
+      "country": "ID",
+      "city": "Jakarta",
+      "last_seen": "2026-02-27T06:25:30.942775",
+      "hostnames": [],
+      "domains": [],
+      "ssl_cn": "localhost",
+      "ssl_issuer": "Rapid7",
+      "ssl_fingerprint": "be83a25b71cc6f90958f4af6df4beadd89e6e22394ca3c7f4090249eb8275ea2",
+      "jarm": "2ad2ad0002ad2ad0002ad2ad2ad2ad4559f8e10cb8687304fce1c6e19fd405",
+      "http_title": "Metasploit",
+      "http_server": "nginx",
+      "os": null,
+      "query_matched": "product:\"Metasploit\"",
+      "collected_at": "2026-02-27T12:14:14.994854Z"
+    },
+    {
+      "ip": "15.160.130.255",
+      "port": 10089,
+      "product": "Metasploit",
+      "tags": [
+        "cloud",
+        "c2"
+      ],
+      "org": "Amazon Data Services Italy",
+      "asn": "AS16509",
+      "isp": "Amazon.com, Inc.",
+      "country": "IT",
+      "city": "Milan",
+      "last_seen": "2026-02-27T06:22:39.341484",
+      "hostnames": [
+        "ec2-15-160-130-255.eu-south-1.compute.amazonaws.com"
+      ],
+      "domains": [
+        "amazonaws.com"
+      ],
+      "ssl_cn": null,
+      "ssl_issuer": null,
+      "ssl_fingerprint": null,
+      "jarm": null,
+      "http_title": null,
+      "http_server": "Stronghold/4.0 Apache/1.3.22 (Unix) mod_ssl/2.8.7 OpenSSL/0.9.6c mod_perl/1.26",
+      "os": null,
+      "query_matched": "product:\"Metasploit\"",
+      "collected_at": "2026-02-27T12:14:14.994908Z"
+    },
+    {
+      "ip": "45.251.240.151",
+      "port": 31337,
+      "product": "Sliver C2",
+      "tags": [
+        "c2"
+      ],
+      "org": "Hongkong Wen Jing Network Limited",
+      "asn": "AS4785",
+      "isp": "xTom",
+      "country": "JP",
+      "city": "Osaka",
+      "last_seen": "2026-02-27T09:15:42.446932",
+      "hostnames": [],
+      "domains": [],
+      "ssl_cn": "multiplayer",
+      "ssl_issuer": null,
+      "ssl_fingerprint": "cea9fb49e8718ac23c7e2c2cc358f8afe1b24ce0679d4a67e4d3e8cf8a8d37b9",
+      "jarm": "00000000000000000043d43d00043de2a97eabb398317329f027c66e4c1b01",
+      "http_title": null,
+      "http_server": null,
+      "os": null,
+      "query_matched": "product:\"Sliver\"",
+      "collected_at": "2026-02-27T12:14:16.382642Z"
+    },
+    {
+      "ip": "38.242.157.96",
+      "port": 31337,
+      "product": "Sliver C2",
+      "tags": [
+        "c2"
+      ],
+      "org": "Contabo GmbH",
+      "asn": "AS51167",
+      "isp": "Contabo GmbH",
+      "country": "DE",
+      "city": "D\u00fcsseldorf",
+      "last_seen": "2026-02-27T06:35:49.696385",
+      "hostnames": [
+        "vmi2990383.contaboserver.net"
+      ],
+      "domains": [
+        "contaboserver.net"
+      ],
+      "ssl_cn": "multiplayer",
+      "ssl_issuer": null,
+      "ssl_fingerprint": "204eff9b6212f5b23c3867aaf7cbb2b46af06e4f6a28dcce93bae6ff78992cd5",
+      "jarm": "00000000000000000043d43d00043de2a97eabb398317329f027c66e4c1b01",
+      "http_title": null,
+      "http_server": null,
+      "os": null,
+      "query_matched": "product:\"Sliver\"",
+      "collected_at": "2026-02-27T12:14:16.382653Z"
+    },
+    {
+      "ip": "31.45.231.174",
+      "port": 31337,
+      "product": "Sliver C2",
+      "tags": [
+        "c2"
+      ],
+      "org": "Firma d.o.o",
+      "asn": "AS12810",
+      "isp": "A1 Hrvatska d.o.o.",
+      "country": "HR",
+      "city": "Zagreb",
+      "last_seen": "2026-02-27T06:21:45.312580",
+      "hostnames": [
+        "srv-31-45-231-174.static.a1.hr"
+      ],
+      "domains": [
+        "a1.hr"
+      ],
+      "ssl_cn": "multiplayer",
+      "ssl_issuer": null,
+      "ssl_fingerprint": "e2c5b0c90e6bb0d2e2a9932b2564854b2670521a3787a8db65dda51fd5d6500d",
+      "jarm": "00000000000000000043d43d00043de2a97eabb398317329f027c66e4c1b01",
+      "http_title": null,
+      "http_server": null,
+      "os": null,
+      "query_matched": "product:\"Sliver\"",
+      "collected_at": "2026-02-27T12:14:16.382688Z"
+    },
+    {
+      "ip": "82.165.218.73",
+      "port": 31337,
+      "product": "Sliver C2",
+      "tags": [
+        "c2"
+      ],
+      "org": "IONOS SE",
+      "asn": "AS8560",
+      "isp": "IONOS SE",
+      "country": "DE",
+      "city": "Berlin",
+      "last_seen": "2026-02-27T06:20:49.481328",
+      "hostnames": [
+        "ip82-165-218-73.pbiaas.com"
+      ],
+      "domains": [
+        "pbiaas.com"
+      ],
+      "ssl_cn": "multiplayer",
+      "ssl_issuer": null,
+      "ssl_fingerprint": "d58c2b5d6ebed038ea8c15adba6c243c4900f886e518d2c21015e70034c605c5",
+      "jarm": "00000000000000000043d43d00043de2a97eabb398317329f027c66e4c1b01",
+      "http_title": null,
+      "http_server": null,
+      "os": null,
+      "query_matched": "product:\"Sliver\"",
+      "collected_at": "2026-02-27T12:14:16.382695Z"
+    },
+    {
+      "ip": "161.97.117.210",
+      "port": 31337,
+      "product": "Sliver C2",
+      "tags": [
+        "c2"
+      ],
+      "org": "Contabo GmbH",
+      "asn": "AS51167",
+      "isp": "Contabo GmbH",
+      "country": "DE",
+      "city": "Frankfurt am Main",
+      "last_seen": "2026-02-27T06:19:20.083191",
+      "hostnames": [
+        "vmi3045587.contaboserver.net"
+      ],
+      "domains": [
+        "contaboserver.net"
+      ],
+      "ssl_cn": "multiplayer",
+      "ssl_issuer": null,
+      "ssl_fingerprint": "9b2a20210535928b325c4d10863cff32db79237efb8546112167c53cebcb0a73",
+      "jarm": "00000000000000000043d43d00043de2a97eabb398317329f027c66e4c1b01",
+      "http_title": null,
+      "http_server": null,
+      "os": null,
+      "query_matched": "product:\"Sliver\"",
+      "collected_at": "2026-02-27T12:14:16.382725Z"
+    },
+    {
+      "ip": "159.223.221.202",
+      "port": 31337,
+      "product": "Sliver C2",
+      "tags": [
+        "cloud",
+        "c2"
+      ],
+      "org": "DigitalOcean, LLC",
+      "asn": "AS14061",
+      "isp": "DigitalOcean, LLC",
+      "country": "NL",
+      "city": "Amsterdam",
+      "last_seen": "2026-02-27T06:18:57.907327",
+      "hostnames": [],
+      "domains": [],
+      "ssl_cn": "multiplayer",
+      "ssl_issuer": null,
+      "ssl_fingerprint": "895fd07455f85de62719242febe1f4a2de1c61c480c61d48cb2dad878344def7",
+      "jarm": "00000000000000000000000000000000000000000000000000000000000000",
+      "http_title": null,
+      "http_server": null,
+      "os": null,
+      "query_matched": "product:\"Sliver\"",
+      "collected_at": "2026-02-27T12:14:16.382730Z"
+    },
+    {
+      "ip": "198.55.109.156",
+      "port": 31337,
+      "product": "Sliver C2",
+      "tags": [
+        "c2"
+      ],
+      "org": "HostPapa",
+      "asn": "AS36352",
+      "isp": "HostPapa",
+      "country": "US",
+      "city": "Los Angeles",
+      "last_seen": "2026-02-27T06:17:55.061334",
+      "hostnames": [
+        "198-55-109-156-host.colocrossing.com"
+      ],
+      "domains": [
+        "colocrossing.com"
+      ],
+      "ssl_cn": "multiplayer",
+      "ssl_issuer": null,
+      "ssl_fingerprint": "f4c42b7ce01486eb1cc56e4600c8d49ecefa1354c904c57dc8c68647a41dd2b4",
+      "jarm": "00000000000000000043d43d00043de2a97eabb398317329f027c66e4c1b01",
+      "http_title": null,
+      "http_server": null,
+      "os": null,
+      "query_matched": "product:\"Sliver\"",
+      "collected_at": "2026-02-27T12:14:16.382767Z"
+    },
+    {
+      "ip": "51.103.27.26",
+      "port": 31337,
+      "product": "Sliver C2",
+      "tags": [
+        "cloud",
+        "c2"
+      ],
+      "org": "Microsoft Limited UK",
+      "asn": "AS8075",
+      "isp": "Microsoft Corporation",
+      "country": "FR",
+      "city": "Paris",
+      "last_seen": "2026-02-27T06:17:28.513915",
+      "hostnames": [],
+      "domains": [],
+      "ssl_cn": "multiplayer",
+      "ssl_issuer": null,
+      "ssl_fingerprint": "6ca9f99d5816895909425a9a804be7044b2cc4a6f37f3a8d66c9d9a69d03d555",
+      "jarm": "00000000000000000043d43d00043de2a97eabb398317329f027c66e4c1b01",
+      "http_title": null,
+      "http_server": null,
+      "os": null,
+      "query_matched": "product:\"Sliver\"",
+      "collected_at": "2026-02-27T12:14:16.382785Z"
+    },
+    {
+      "ip": "146.103.124.7",
+      "port": 31337,
+      "product": "Sliver C2",
+      "tags": [
+        "c2"
+      ],
+      "org": "SERVERS TECH FZCO",
+      "asn": null,
+      "isp": null,
+      "country": "NL",
+      "city": "Amsterdam",
+      "last_seen": "2026-02-27T06:17:27.252985",
+      "hostnames": [
+        "v503277.hosted-by-vdsina.com"
+      ],
+      "domains": [
+        "hosted-by-vdsina.com"
+      ],
+      "ssl_cn": "multiplayer",
+      "ssl_issuer": null,
+      "ssl_fingerprint": "411ce39b593c74595e47a4d657c6597681af05b43dd6527bea03bcd5b47eb811",
+      "jarm": "00000000000000000043d43d00043de2a97eabb398317329f027c66e4c1b01",
+      "http_title": null,
+      "http_server": null,
+      "os": null,
+      "query_matched": "product:\"Sliver\"",
+      "collected_at": "2026-02-27T12:14:16.382791Z"
+    },
+    {
+      "ip": "217.26.31.86",
+      "port": 31337,
+      "product": "Sliver C2",
+      "tags": [
+        "c2"
+      ],
+      "org": "Informational technologies and electronic communications LLC",
+      "asn": null,
+      "isp": null,
+      "country": "RU",
+      "city": "Moscow",
+      "last_seen": "2026-02-27T06:16:30.750199",
+      "hostnames": [],
+      "domains": [],
+      "ssl_cn": "multiplayer",
+      "ssl_issuer": null,
+      "ssl_fingerprint": "c94d4f5684b8afe097ceb7c8b06584436fccdccf77efa7f1a77da06081634578",
+      "jarm": "00000000000000000043d43d00043de2a97eabb398317329f027c66e4c1b01",
+      "http_title": null,
+      "http_server": null,
+      "os": null,
+      "query_matched": "product:\"Sliver\"",
+      "collected_at": "2026-02-27T12:14:16.382827Z"
+    },
+    {
+      "ip": "147.50.230.91",
+      "port": 31337,
+      "product": "Sliver C2",
+      "tags": [
+        "c2"
+      ],
+      "org": "CS Loxinfo Public Company Limited",
+      "asn": "AS9891",
+      "isp": "CS LOXINFO Public Company Limited.",
+      "country": "TH",
+      "city": "Bangkok",
+      "last_seen": "2026-02-27T06:14:02.176192",
+      "hostnames": [],
+      "domains": [],
+      "ssl_cn": "multiplayer",
+      "ssl_issuer": null,
+      "ssl_fingerprint": "e7783c7f5eb7c5c8955d0312f1c590a0ec95bb782f74be22f056f2195212da87",
+      "jarm": "00000000000000000043d43d00043de2a97eabb398317329f027c66e4c1b01",
+      "http_title": null,
+      "http_server": null,
+      "os": null,
+      "query_matched": "product:\"Sliver\"",
+      "collected_at": "2026-02-27T12:14:16.382942Z"
+    },
+    {
+      "ip": "46.224.143.22",
+      "port": 31337,
+      "product": "Sliver C2",
+      "tags": [
+        "c2"
+      ],
+      "org": "Hetzner Online GmbH",
+      "asn": null,
+      "isp": null,
+      "country": "AE",
+      "city": "Dubai",
+      "last_seen": "2026-02-27T06:12:38.234996",
+      "hostnames": [
+        "static.22.143.224.46.clients.your-server.de"
+      ],
+      "domains": [
+        "your-server.de"
+      ],
+      "ssl_cn": "multiplayer",
+      "ssl_issuer": null,
+      "ssl_fingerprint": "16630211b71a33fd8dd91b7383e8868b24e571471b52c0d9677df4b5683ec9bd",
+      "jarm": "00000000000000000043d43d00043de2a97eabb398317329f027c66e4c1b01",
+      "http_title": null,
+      "http_server": null,
+      "os": null,
+      "query_matched": "product:\"Sliver\"",
+      "collected_at": "2026-02-27T12:14:16.383016Z"
+    },
+    {
+      "ip": "62.171.166.237",
+      "port": 31337,
+      "product": "Sliver C2",
+      "tags": [
+        "c2"
+      ],
+      "org": "Contabo GmbH",
+      "asn": "AS51167",
+      "isp": "Contabo GmbH",
+      "country": "DE",
+      "city": "Frankfurt am Main",
+      "last_seen": "2026-02-27T06:12:32.925743",
+      "hostnames": [
+        "vmi3084501.contaboserver.net"
+      ],
+      "domains": [
+        "contaboserver.net"
+      ],
+      "ssl_cn": "multiplayer",
+      "ssl_issuer": null,
+      "ssl_fingerprint": "0d38fce93b42c49c7d143cda9fbe1d3b88109ef5c1310715d7a3e8536e2b89e3",
+      "jarm": "00000000000000000043d43d00043de2a97eabb398317329f027c66e4c1b01",
+      "http_title": null,
+      "http_server": null,
+      "os": null,
+      "query_matched": "product:\"Sliver\"",
+      "collected_at": "2026-02-27T12:14:16.383031Z"
+    },
+    {
+      "ip": "62.171.138.199",
+      "port": 31337,
+      "product": "Sliver C2",
+      "tags": [
+        "c2"
+      ],
+      "org": "Contabo GmbH",
+      "asn": "AS51167",
+      "isp": "Contabo GmbH",
+      "country": "DE",
+      "city": "Frankfurt am Main",
+      "last_seen": "2026-02-27T06:12:29.581311",
+      "hostnames": [
+        "vmi3010604.contaboserver.net"
+      ],
+      "domains": [
+        "contaboserver.net"
+      ],
+      "ssl_cn": "multiplayer",
+      "ssl_issuer": null,
+      "ssl_fingerprint": "c9800300da07d62e394542dfd0f250df1c18020c1540162af4a24e4f51453b1a",
+      "jarm": "00000000000000000043d43d00043de2a97eabb398317329f027c66e4c1b01",
+      "http_title": null,
+      "http_server": null,
+      "os": null,
+      "query_matched": "product:\"Sliver\"",
+      "collected_at": "2026-02-27T12:14:16.383047Z"
+    },
+    {
+      "ip": "54.168.38.97",
+      "port": 80,
+      "product": "Brute Ratel C4",
+      "tags": [
+        "cloud",
+        "c2"
+      ],
+      "org": "Amazon Data Services Japan",
+      "asn": "AS16509",
+      "isp": "Amazon.com, Inc.",
+      "country": "JP",
+      "city": "Tokyo",
+      "last_seen": "2026-02-27T12:00:19.889780",
+      "hostnames": [
+        "ec2-54-168-38-97.ap-northeast-1.compute.amazonaws.com"
+      ],
+      "domains": [
+        "amazonaws.com"
+      ],
+      "ssl_cn": null,
+      "ssl_issuer": null,
+      "ssl_fingerprint": null,
+      "jarm": null,
+      "http_title": null,
+      "http_server": "awselb/2.0",
+      "os": null,
+      "query_matched": "product:\"Brute Ratel\"",
+      "collected_at": "2026-02-27T12:14:17.616797Z"
+    },
+    {
+      "ip": "66.154.117.64",
+      "port": 443,
+      "product": "Havoc C2",
+      "tags": [
+        "c2",
+        "self-signed"
+      ],
+      "org": "EGIHosting",
+      "asn": "AS18779",
+      "isp": "EGIHosting",
+      "country": "US",
+      "city": "New York City",
+      "last_seen": "2026-02-27T08:17:23.853574",
+      "hostnames": [],
+      "domains": [],
+      "ssl_cn": "66.154.117.64",
+      "ssl_issuer": "corp",
+      "ssl_fingerprint": "53c2591da4b2433ba9b15f3da7eeeb0263447824ca0136af53af05617365de2a",
+      "jarm": "3fd21b20d00000021c43d21b21b43d76e1f79b8645e08ae7fa8f07eb5e4202",
+      "http_title": "404 Not Found",
+      "http_server": "nginx",
+      "os": null,
+      "query_matched": "product:\"Havoc\"",
+      "collected_at": "2026-02-27T12:14:18.801470Z"
+    },
+    {
+      "ip": "47.237.15.197",
+      "port": 443,
+      "product": "Havoc C2",
+      "tags": [
+        "cloud",
+        "c2",
+        "self-signed"
+      ],
+      "org": "Alibaba Cloud LLC",
+      "asn": "AS45102",
+      "isp": "Alibaba (US) Technology Co., Ltd.",
+      "country": "SG",
+      "city": "Singapore",
+      "last_seen": "2026-02-27T03:08:47.433246",
+      "hostnames": [],
+      "domains": [],
+      "ssl_cn": "0.0.0.0",
+      "ssl_issuer": "PARTNERS CO",
+      "ssl_fingerprint": "701eec39d47df00a769e6fdf9b8bdbb047ae2338f4faec4620e82206a8d163bc",
+      "jarm": "3fd21b20d00000021c43d21b21b43d76e1f79b8645e08ae7fa8f07eb5e4202",
+      "http_title": "404 Not Found",
+      "http_server": "nginx",
+      "os": null,
+      "query_matched": "product:\"Havoc\"",
+      "collected_at": "2026-02-27T12:14:18.801493Z"
+    },
+    {
+      "ip": "103.106.228.129",
+      "port": 443,
+      "product": "Havoc C2",
+      "tags": [
+        "c2",
+        "self-signed"
+      ],
+      "org": "oneprovider.com - Tokyo Infrastructure",
+      "asn": "AS136258",
+      "isp": "BrainStorm Network, Inc",
+      "country": "JP",
+      "city": "Tokyo",
+      "last_seen": "2026-02-26T18:59:29.282745",
+      "hostnames": [],
+      "domains": [],
+      "ssl_cn": "103.106.228.129",
+      "ssl_issuer": "SYNERGY CO",
+      "ssl_fingerprint": "2e3999b1074f15ab04c39b77c2fa35f55076c72b38d6dfd15c3a36f62a734794",
+      "jarm": "3fd21b20d00000021c43d21b21b43d76e1f79b8645e08ae7fa8f07eb5e4202",
+      "http_title": "404 Not Found",
+      "http_server": "nginx",
+      "os": null,
+      "query_matched": "product:\"Havoc\"",
+      "collected_at": "2026-02-27T12:14:18.801522Z"
+    },
+    {
+      "ip": "1.92.115.217",
+      "port": 443,
+      "product": "Havoc C2",
+      "tags": [
+        "c2",
+        "self-signed"
+      ],
+      "org": "Huawei Public Cloud Service (Huawei Software Technologies Ltd.Co)",
+      "asn": "AS55990",
+      "isp": "Huawei Cloud Service data center",
+      "country": "CN",
+      "city": "Beijing",
+      "last_seen": "2026-02-26T03:59:18.833549",
+      "hostnames": [
+        "ecs-1-92-115-217.compute.hwclouds-dns.com"
+      ],
+      "domains": [
+        "hwclouds-dns.com"
+      ],
+      "ssl_cn": "0.0.0.0",
+      "ssl_issuer": "cloud inc",
+      "ssl_fingerprint": "a860ceaec0f517d809cf5e63cfb6b7dde96ed7a7dcc50b8a673d45e76f3d6ae8",
+      "jarm": "3fd21b20d00000021c43d21b21b43d76e1f79b8645e08ae7fa8f07eb5e4202",
+      "http_title": "404 Not Found",
+      "http_server": "nginx",
+      "os": null,
+      "query_matched": "product:\"Havoc\"",
+      "collected_at": "2026-02-27T12:14:18.801538Z"
+    },
+    {
+      "ip": "89.168.42.140",
+      "port": 443,
+      "product": "Havoc C2",
+      "tags": [
+        "cloud",
+        "c2"
+      ],
+      "org": "Oracle Svenska AB",
+      "asn": "AS31898",
+      "isp": "Oracle Corporation",
+      "country": "FR",
+      "city": "Paris",
+      "last_seen": "2026-02-26T01:50:39.193771",
+      "hostnames": [],
+      "domains": [],
+      "ssl_cn": null,
+      "ssl_issuer": null,
+      "ssl_fingerprint": null,
+      "jarm": null,
+      "http_title": null,
+      "http_server": null,
+      "os": null,
+      "query_matched": "product:\"Havoc\"",
+      "collected_at": "2026-02-27T12:14:18.801546Z"
+    },
+    {
+      "ip": "109.100.140.46",
+      "port": 443,
+      "product": "Havoc C2",
+      "tags": [
+        "c2",
+        "self-signed"
+      ],
+      "org": "Orange Romania Communications",
+      "asn": "AS9050",
+      "isp": "Orange Romania S.A.",
+      "country": "RO",
+      "city": "Bucharest",
+      "last_seen": "2026-02-25T23:02:26.635234",
+      "hostnames": [],
+      "domains": [],
+      "ssl_cn": "192.168.1.7",
+      "ssl_issuer": null,
+      "ssl_fingerprint": "d48c06662202c4cb5654e52dd9bdf831b199abcec5cf6df1b60942824970d9cd",
+      "jarm": "3fd21b20d00000021c43d21b21b43d76e1f79b8645e08ae7fa8f07eb5e4202",
+      "http_title": "404 Not Found",
+      "http_server": "nginx",
+      "os": null,
+      "query_matched": "product:\"Havoc\"",
+      "collected_at": "2026-02-27T12:14:18.801549Z"
+    },
+    {
+      "ip": "15.204.14.143",
+      "port": 443,
+      "product": "Havoc C2",
+      "tags": [
+        "c2"
+      ],
+      "org": "OVH US LLC",
+      "asn": "AS16276",
+      "isp": "OVH SAS",
+      "country": "US",
+      "city": "Portland",
+      "last_seen": "2026-02-25T03:56:49.687165",
+      "hostnames": [
+        "ip143.ip-15-204-14.us"
+      ],
+      "domains": [
+        "ip-15-204-14.us"
+      ],
+      "ssl_cn": null,
+      "ssl_issuer": null,
+      "ssl_fingerprint": null,
+      "jarm": null,
+      "http_title": null,
+      "http_server": null,
+      "os": null,
+      "query_matched": "product:\"Havoc\"",
+      "collected_at": "2026-02-27T12:14:18.801553Z"
+    },
+    {
+      "ip": "18.192.8.246",
+      "port": 443,
+      "product": "Havoc C2",
+      "tags": [
+        "cloud",
+        "c2",
+        "self-signed"
+      ],
+      "org": "A100 ROW GmbH",
+      "asn": "AS16509",
+      "isp": "Amazon.com, Inc.",
+      "country": "DE",
+      "city": "Frankfurt am Main",
+      "last_seen": "2026-02-24T18:34:52.562378",
+      "hostnames": [
+        "ec2-18-192-8-246.eu-central-1.compute.amazonaws.com"
+      ],
+      "domains": [
+        "amazonaws.com"
+      ],
+      "ssl_cn": "172.31.46.219",
+      "ssl_issuer": "ACME LLC",
+      "ssl_fingerprint": "aa2fd49aeaa8700e3d3a8967b4870514171dece330cd2421f4d4df5a1ba4daff",
+      "jarm": "3fd21b20d00000021c43d21b21b43d76e1f79b8645e08ae7fa8f07eb5e4202",
+      "http_title": "404 Not Found",
+      "http_server": "nginx",
+      "os": null,
+      "query_matched": "product:\"Havoc\"",
+      "collected_at": "2026-02-27T12:14:18.801558Z"
+    },
+    {
+      "ip": "100.54.32.98",
+      "port": 443,
+      "product": "Havoc C2",
+      "tags": [
+        "cloud",
+        "c2"
+      ],
+      "org": "Amazon.com, Inc.",
+      "asn": "AS16509",
+      "isp": "Amazon.com, Inc.",
+      "country": "US",
+      "city": "Ashburn",
+      "last_seen": "2026-02-21T20:34:08.215307",
+      "hostnames": [
+        "ec2-100-54-32-98.compute-1.amazonaws.com"
+      ],
+      "domains": [
+        "amazonaws.com"
+      ],
+      "ssl_cn": null,
+      "ssl_issuer": null,
+      "ssl_fingerprint": null,
+      "jarm": null,
+      "http_title": null,
+      "http_server": null,
+      "os": null,
+      "query_matched": "product:\"Havoc\"",
+      "collected_at": "2026-02-27T12:14:18.801563Z"
+    },
+    {
+      "ip": "44.198.60.243",
+      "port": 443,
+      "product": "Havoc C2",
+      "tags": [
+        "cloud",
+        "c2",
+        "self-signed"
+      ],
+      "org": "Amazon Data Services NoVa",
+      "asn": "AS14618",
+      "isp": "Amazon.com, Inc.",
+      "country": "US",
+      "city": "Ashburn",
+      "last_seen": "2026-02-20T22:01:42.750096",
+      "hostnames": [
+        "ec2-44-198-60-243.compute-1.amazonaws.com"
+      ],
+      "domains": [
+        "amazonaws.com"
+      ],
+      "ssl_cn": "10.0.1.145",
+      "ssl_issuer": "CLOUD LTD",
+      "ssl_fingerprint": "ca5211b8dfe70c48ee240b26708cdb0470d303ef57ed9c9de0d591de0758014b",
+      "jarm": "3fd21b20d00000021c43d21b21b43d76e1f79b8645e08ae7fa8f07eb5e4202",
+      "http_title": "404 Not Found",
+      "http_server": "nginx",
+      "os": null,
+      "query_matched": "product:\"Havoc\"",
+      "collected_at": "2026-02-27T12:14:18.801566Z"
+    },
+    {
+      "ip": "94.74.0.253",
+      "port": 7443,
+      "product": "Mythic",
+      "tags": [
+        "c2",
+        "eol-product"
+      ],
+      "org": "AEMNet DSL Link3 Infrastructure",
+      "asn": "AS39636",
+      "isp": "IREN ENERGIA S.P.A",
+      "country": "IT",
+      "city": "Turin",
+      "last_seen": "2026-02-27T05:33:42.279487",
+      "hostnames": [
+        "host-94-74-0-253.aemnet.it"
+      ],
+      "domains": [
+        "aemnet.it"
+      ],
+      "ssl_cn": null,
+      "ssl_issuer": "Mythic",
+      "ssl_fingerprint": "1376f22704fa31e6e449d47a472dcae94208e6a57f63962f9656672bc2dd71a8",
+      "jarm": "1dd40d40d00040d00042d43d000000831b6af40378e2dd35eeac4e9311926e",
+      "http_title": "Mythic",
+      "http_server": "nginx/1.25.5",
+      "os": null,
+      "query_matched": "product:\"Mythic\"",
+      "collected_at": "2026-02-27T12:14:20.799341Z"
+    },
+    {
+      "ip": "167.99.208.145",
+      "port": 7443,
+      "product": "Mythic",
+      "tags": [
+        "cloud",
+        "c2",
+        "eol-product"
+      ],
+      "org": "DigitalOcean, LLC",
+      "asn": "AS14061",
+      "isp": "DigitalOcean, LLC",
+      "country": "NL",
+      "city": "Amsterdam",
+      "last_seen": "2026-02-27T05:30:31.006517",
+      "hostnames": [],
+      "domains": [],
+      "ssl_cn": null,
+      "ssl_issuer": "Mythic",
+      "ssl_fingerprint": "386b06743085c2dfb8bc31ed5a26fd85c0e74f6dd84f68580275b55a1dcad7fa",
+      "jarm": "1dd40d40d00040d00042d43d000000831b6af40378e2dd35eeac4e9311926e",
+      "http_title": "Mythic",
+      "http_server": "nginx/1.25.5",
+      "os": null,
+      "query_matched": "product:\"Mythic\"",
+      "collected_at": "2026-02-27T12:14:20.799362Z"
+    },
+    {
+      "ip": "172.86.114.105",
+      "port": 7443,
+      "product": "Mythic",
+      "tags": [
+        "c2",
+        "eol-product"
+      ],
+      "org": "RouterHosting LLC",
+      "asn": "AS14956",
+      "isp": "RouterHosting LLC",
+      "country": "US",
+      "city": "Dallas",
+      "last_seen": "2026-02-27T05:30:06.333138",
+      "hostnames": [],
+      "domains": [],
+      "ssl_cn": null,
+      "ssl_issuer": "Mythic",
+      "ssl_fingerprint": "52f3d6988005ed4cff93eeed53a29bba3a487fc997e131e5dfb572fa91d4d775",
+      "jarm": "1dd40d40d00040d00042d43d000000831b6af40378e2dd35eeac4e9311926e",
+      "http_title": "Mythic",
+      "http_server": "nginx/1.25.5",
+      "os": null,
+      "query_matched": "product:\"Mythic\"",
+      "collected_at": "2026-02-27T12:14:20.799368Z"
+    },
+    {
+      "ip": "79.175.189.207",
+      "port": 7443,
+      "product": "Mythic",
+      "tags": [
+        "c2",
+        "eol-product"
+      ],
+      "org": "Afranet",
+      "asn": "AS25184",
+      "isp": "Afranet",
+      "country": "IR",
+      "city": "Shiraz",
+      "last_seen": "2026-02-27T05:28:09.723088",
+      "hostnames": [],
+      "domains": [],
+      "ssl_cn": null,
+      "ssl_issuer": "Mythic",
+      "ssl_fingerprint": "6753b16291f6442e11516bd18d7e49c891a4ac7d57a0e44554a697200b2967d6",
+      "jarm": "1dd40d40d00040d00042d43d000000831b6af40378e2dd35eeac4e9311926e",
+      "http_title": "Mythic",
+      "http_server": "nginx/1.25.5",
+      "os": null,
+      "query_matched": "product:\"Mythic\"",
+      "collected_at": "2026-02-27T12:14:20.799381Z"
+    },
+    {
+      "ip": "16.58.46.80",
+      "port": 80,
+      "product": "Mythic",
+      "tags": [
+        "cloud",
+        "c2",
+        "eol-product"
+      ],
+      "org": "Amazon.com, Inc.",
+      "asn": "AS16509",
+      "isp": "Amazon.com, Inc.",
+      "country": "US",
+      "city": "Columbus",
+      "last_seen": "2026-02-27T02:53:28.998441",
+      "hostnames": [
+        "ec2-16-58-46-80.us-east-2.compute.amazonaws.com"
+      ],
+      "domains": [
+        "amazonaws.com"
+      ],
+      "ssl_cn": null,
+      "ssl_issuer": null,
+      "ssl_fingerprint": null,
+      "jarm": null,
+      "http_title": "Mythic",
+      "http_server": "nginx/1.25.5",
+      "os": null,
+      "query_matched": "product:\"Mythic\"",
+      "collected_at": "2026-02-27T12:14:20.799440Z"
+    },
+    {
+      "ip": "102.117.160.67",
+      "port": 7443,
+      "product": "Mythic",
+      "tags": [
+        "c2",
+        "eol-product"
+      ],
+      "org": "Mauritius Telecom Ltd",
+      "asn": "AS23889",
+      "isp": "Mauritius Telecom Ltd",
+      "country": "MU",
+      "city": "Quatre Bornes",
+      "last_seen": "2026-02-26T07:36:17.768092",
+      "hostnames": [],
+      "domains": [],
+      "ssl_cn": null,
+      "ssl_issuer": "Mythic",
+      "ssl_fingerprint": "aef46b2c00bfcc5b706ba17fb6bd968b0dc422d14278bc86aef1fdcec4f37aa3",
+      "jarm": "1dd40d40d00040d00042d43d000000831b6af40378e2dd35eeac4e9311926e",
+      "http_title": "Mythic",
+      "http_server": "nginx/1.25.5",
+      "os": null,
+      "query_matched": "product:\"Mythic\"",
+      "collected_at": "2026-02-27T12:14:20.799473Z"
+    },
+    {
+      "ip": "45.251.240.151",
+      "port": 7443,
+      "product": "Mythic",
+      "tags": [
+        "c2",
+        "eol-product"
+      ],
+      "org": "Hongkong Wen Jing Network Limited",
+      "asn": "AS4785",
+      "isp": "xTom",
+      "country": "JP",
+      "city": "Osaka",
+      "last_seen": "2026-02-25T18:23:02.966564",
+      "hostnames": [],
+      "domains": [],
+      "ssl_cn": null,
+      "ssl_issuer": "Mythic",
+      "ssl_fingerprint": "a02ff3d049e7852d1687c903a86e55b346bb68132946b16076283c8fbabd8a39",
+      "jarm": "1dd40d40d00040d00042d43d000000831b6af40378e2dd35eeac4e9311926e",
+      "http_title": "Mythic",
+      "http_server": "nginx/1.25.5",
+      "os": null,
+      "query_matched": "product:\"Mythic\"",
+      "collected_at": "2026-02-27T12:14:20.799475Z"
+    },
+    {
+      "ip": "210.182.170.135",
+      "port": 443,
+      "product": null,
+      "tags": [],
+      "org": "LG DACOM Corporation",
+      "asn": "AS9784",
+      "isp": "kbcard",
+      "country": "KR",
+      "city": "Seoul",
+      "last_seen": "2026-02-27T00:52:35.739955",
+      "hostnames": [
+        "stg-api.kbcard.com"
+      ],
+      "domains": [
+        "kbcard.com"
+      ],
+      "ssl_cn": "stg-api.kbcard.com",
+      "ssl_issuer": "DigiCert Inc",
+      "ssl_fingerprint": "55891de66ec6d7890532f7ab82cab6e197d22c653715ddabdab9cea09eecb942",
+      "jarm": "07d14d16d21d21d00042d41d00041de5fb3038104f457d92ba02e9311512c2",
+      "http_title": null,
+      "http_server": "Layer7-API-Gateway",
+      "os": null,
+      "query_matched": "ssl.jarm:07d14d16d21d21d00042d41d00041de5fb3038104f457d92ba02e9311512c2",
+      "collected_at": "2026-02-27T12:14:23.958831Z"
+    },
+    {
+      "ip": "117.5.229.159",
+      "port": 8883,
+      "product": "MQTT",
+      "tags": [
+        "self-signed"
+      ],
+      "org": "Viettel Group",
+      "asn": "AS7552",
+      "isp": "Viettel Group",
+      "country": "VN",
+      "city": "Hanoi",
+      "last_seen": "2026-02-26T09:01:18.674845",
+      "hostnames": [
+        "localhost"
+      ],
+      "domains": [
+        "localhost."
+      ],
+      "ssl_cn": "10.60.108.65",
+      "ssl_issuer": "VTS-ThingsBoard-Server",
+      "ssl_fingerprint": "cbe8bc98bf7c21cc25fb802b7dca3abe2b8be28b8ed19c180c5adda64220c991",
+      "jarm": "07d14d16d21d21d00042d41d00041de5fb3038104f457d92ba02e9311512c2",
+      "http_title": null,
+      "http_server": null,
+      "os": null,
+      "query_matched": "ssl.jarm:07d14d16d21d21d00042d41d00041de5fb3038104f457d92ba02e9311512c2",
+      "collected_at": "2026-02-27T12:14:23.958900Z"
+    },
+    {
+      "ip": "136.144.253.116",
+      "port": 8883,
+      "product": "MQTT",
+      "tags": [
+        "self-signed"
+      ],
+      "org": "TRANSIP 136 144 192 0",
+      "asn": "AS20857",
+      "isp": "Signet B.V.",
+      "country": "NL",
+      "city": "Amsterdam",
+      "last_seen": "2026-02-23T08:08:00.458132",
+      "hostnames": [
+        "iot.qcare.spinnov.com",
+        "136-144-253-116.colo.transip.net"
+      ],
+      "domains": [
+        "spinnov.com",
+        "transip.net"
+      ],
+      "ssl_cn": "iot.qcare.spinnov.com",
+      "ssl_issuer": "Market(localhost)",
+      "ssl_fingerprint": "54aa49b0070b4a3aa54f9a7c856b1d8453af10d5ab38250dc793ea51ec054762",
+      "jarm": "07d14d16d21d21d00042d41d00041de5fb3038104f457d92ba02e9311512c2",
+      "http_title": null,
+      "http_server": null,
+      "os": null,
+      "query_matched": "ssl.jarm:07d14d16d21d21d00042d41d00041de5fb3038104f457d92ba02e9311512c2",
+      "collected_at": "2026-02-27T12:14:23.958964Z"
+    },
+    {
+      "ip": "166.70.34.185",
+      "port": 443,
+      "product": null,
+      "tags": [],
+      "org": "XMission, L.C.",
+      "asn": "AS6315",
+      "isp": "XMission, L.C.",
+      "country": "US",
+      "city": "Salt Lake City",
+      "last_seen": "2026-02-26T15:12:29.953997",
+      "hostnames": [
+        "adfs.ccnwa.com",
+        "securefiles.cccnwa.com",
+        "securefiles.communityclinicnetwork.com",
+        "communityclinicnetwork.com",
+        "fm.cccnwa.com",
+        "adfs.cccn.cloud",
+        "fs.cccnwa.com",
+        "www.communityclinicnetwork.com",
+        "mft01.ccnwa.com",
+        "adfs.cccnwa.com",
+        "securefiles.ccnwa.com",
+        "fm.ccnwa.com",
+        "mft01.cccnwa.com",
+        "166-70-34-185.utopia.xmission.net"
+      ],
+      "domains": [
+        "ccnwa.com",
+        "cccnwa.com",
+        "communityclinicnetwork.com",
+        "cccn.cloud",
+        "xmission.net"
+      ],
+      "ssl_cn": "communityclinicnetwork.com",
+      "ssl_issuer": "GoDaddy.com, Inc.",
+      "ssl_fingerprint": "7fd01d97608d649664fdd48935ef0c95aab4188ad7902a37eb03cfaa0167004f",
+      "jarm": "07d14d16d21d21d00042d41d00041de5fb3038104f457d92ba02e9311512c2",
+      "http_title": null,
+      "http_server": "mft01.cccnwa.com",
+      "os": null,
+      "query_matched": "ssl.jarm:07d14d16d21d21d00042d41d00041de5fb3038104f457d92ba02e9311512c2",
+      "collected_at": "2026-02-27T12:14:23.958992Z"
+    },
+    {
+      "ip": "36.225.198.50",
+      "port": 9000,
+      "product": null,
+      "tags": [],
+      "org": "Chunghwa Telecom Co.,Ltd.",
+      "asn": "AS3462",
+      "isp": "Data Communication Business Group",
+      "country": "TW",
+      "city": "Banqiao",
+      "last_seen": "2026-02-21T09:50:24.522440",
+      "hostnames": [
+        "36-225-198-50.dynamic-ip.hinet.net"
+      ],
+      "domains": [
+        "hinet.net"
+      ],
+      "ssl_cn": "*.joxpfbornscj.hath.network",
+      "ssl_issuer": "Let's Encrypt",
+      "ssl_fingerprint": "7a867eb28226b574d7d5f321dcf65d52b7c3d3c4dce187200685300115099f4c",
+      "jarm": "07d14d16d21d21d00042d41d00041de5fb3038104f457d92ba02e9311512c2",
+      "http_title": null,
+      "http_server": "Genetic Lifeform and Distributed Open Server 1.6.4",
+      "os": null,
+      "query_matched": "ssl.jarm:07d14d16d21d21d00042d41d00041de5fb3038104f457d92ba02e9311512c2",
+      "collected_at": "2026-02-27T12:14:23.958995Z"
+    },
+    {
+      "ip": "149.36.255.92",
+      "port": 443,
+      "product": null,
+      "tags": [],
+      "org": "JOTELULU SLU",
+      "asn": "AS174",
+      "isp": "Cogent Communications",
+      "country": "ES",
+      "city": "Madrid",
+      "last_seen": "2026-02-27T11:59:23.152307",
+      "hostnames": [
+        "92.255.36.149.in-addr.arpa",
+        "info113apps1.jotelulu.cloud"
+      ],
+      "domains": [
+        "149.in-addr.arpa",
+        "jotelulu.cloud"
+      ],
+      "ssl_cn": "info113apps1.jotelulu.cloud",
+      "ssl_issuer": "Let's Encrypt",
+      "ssl_fingerprint": "8eee8a163c6201be9417fceb5338b209a2605a44d260bc3ac75bd38281ca8901",
+      "jarm": "2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
+      "http_title": "Acceso Web",
+      "http_server": null,
+      "os": null,
+      "query_matched": "ssl.jarm:2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
+      "collected_at": "2026-02-27T12:14:25.476263Z"
+    },
+    {
+      "ip": "182.30.91.189",
+      "port": 443,
+      "product": null,
+      "tags": [
+        "cloud"
+      ],
+      "org": "Amazon Data Services NoVa",
+      "asn": "AS8987",
+      "isp": "Amazon Data Services Ireland Ltd",
+      "country": "US",
+      "city": "Columbus",
+      "last_seen": "2026-02-27T11:59:08.551437",
+      "hostnames": [
+        "mq-sc-sumter-pd.centralsquarecloudgov.com",
+        "core-mq-sc-sumter-pd.centralsquarecloudgov.com",
+        "ec2-182-30-91-189.us-gov-east-1.compute.amazonaws.com",
+        "edge-mq-sc-sumter-pd.centralsquarecloudgov.com"
+      ],
+      "domains": [
+        "centralsquarecloudgov.com",
+        "amazonaws.com"
+      ],
+      "ssl_cn": "mq-sc-sumter-pd.centralsquarecloudgov.com",
+      "ssl_issuer": "Let's Encrypt",
+      "ssl_fingerprint": "534d58527e23e3cfcb6e47b779ece18b31d24fd5045259a1f0251db354c2e176",
+      "jarm": "2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
+      "http_title": null,
+      "http_server": null,
+      "os": null,
+      "query_matched": "ssl.jarm:2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
+      "collected_at": "2026-02-27T12:14:25.476278Z"
+    },
+    {
+      "ip": "46.247.76.22",
+      "port": 9095,
+      "product": null,
+      "tags": [],
+      "org": "LTN Global Communications Inc",
+      "asn": "AS35777",
+      "isp": "LTN Global Communications Inc",
+      "country": "US",
+      "city": "Ashburn",
+      "last_seen": "2026-02-27T11:53:14.537567",
+      "hostnames": [
+        "was-dc2-kafka-cc-1.livetimenet.net"
+      ],
+      "domains": [
+        "livetimenet.net"
+      ],
+      "ssl_cn": "was-dc2-kafka-cc-1.livetimenet.net",
+      "ssl_issuer": "LTN Global Communications Inc.",
+      "ssl_fingerprint": "1dc67d7b43a7b334a68481126751b3ddb357387d5608475dd3004b4929af3853",
+      "jarm": "2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
+      "http_title": null,
+      "http_server": null,
+      "os": null,
+      "query_matched": "ssl.jarm:2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
+      "collected_at": "2026-02-27T12:14:25.476283Z"
+    },
+    {
+      "ip": "98.66.160.195",
+      "port": 4444,
+      "product": null,
+      "tags": [
+        "cloud",
+        "self-signed"
+      ],
+      "org": "Microsoft Corporation",
+      "asn": "AS8075",
+      "isp": "Microsoft Corporation",
+      "country": "FR",
+      "city": "Paris",
+      "last_seen": "2026-02-27T11:52:29.466400",
+      "hostnames": [],
+      "domains": [],
+      "ssl_cn": "gedicom watchdog",
+      "ssl_issuer": "gedicom",
+      "ssl_fingerprint": "c1c758ae92f690393e02e25b06a5bbf476462c43e12f85f8523d53437a5478fb",
+      "jarm": "2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
+      "http_title": null,
+      "http_server": null,
+      "os": null,
+      "query_matched": "ssl.jarm:2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
+      "collected_at": "2026-02-27T12:14:25.476286Z"
+    },
+    {
+      "ip": "149.88.14.107",
+      "port": 443,
+      "product": null,
+      "tags": [],
+      "org": "JOTELULU SLU",
+      "asn": "AS212087",
+      "isp": "JOTELULU S.L.",
+      "country": "ES",
+      "city": "Madrid",
+      "last_seen": "2026-02-27T11:50:08.389270",
+      "hostnames": [
+        "107.14.88.149.in-addr.arpa",
+        "sage50.infosoftgrup.com"
+      ],
+      "domains": [
+        "149.in-addr.arpa",
+        "infosoftgrup.com"
+      ],
+      "ssl_cn": "sage50.infosoftgrup.com",
+      "ssl_issuer": "Let's Encrypt",
+      "ssl_fingerprint": "3e9521599605f6dab044d1f553231320cd43c3d4bb0855e0d8aa9b118b4be4ba",
+      "jarm": "2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
+      "http_title": "Acceso Web",
+      "http_server": null,
+      "os": null,
+      "query_matched": "ssl.jarm:2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
+      "collected_at": "2026-02-27T12:14:25.476292Z"
+    },
+    {
+      "ip": "15.204.219.207",
+      "port": 9000,
+      "product": null,
+      "tags": [],
+      "org": "OVH US LLC",
+      "asn": "AS16276",
+      "isp": "OVH SAS",
+      "country": "US",
+      "city": "Ashburn",
+      "last_seen": "2026-02-27T11:47:53.412987",
+      "hostnames": [
+        "vps-10afcac4.vps.ovh.us",
+        "secondwrite.com"
+      ],
+      "domains": [
+        "ovh.us",
+        "secondwrite.com"
+      ],
+      "ssl_cn": "*.secondwrite.com",
+      "ssl_issuer": "GoDaddy.com, Inc.",
+      "ssl_fingerprint": "c7f9328dfa4c6b3f0229490d8de77299440a2256f85947068e9507c53d96b9a3",
+      "jarm": "2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
+      "http_title": "Graylog Web Interface",
+      "http_server": null,
+      "os": null,
+      "query_matched": "ssl.jarm:2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
+      "collected_at": "2026-02-27T12:14:25.476295Z"
+    },
+    {
+      "ip": "185.62.210.106",
+      "port": 10000,
+      "product": null,
+      "tags": [],
+      "org": "hallo, Nederland B.V.",
+      "asn": "AS31673",
+      "isp": "Uniserver Internet B.V.",
+      "country": "NL",
+      "city": "Alkmaar",
+      "last_seen": "2026-02-27T11:43:30.201445",
+      "hostnames": [
+        "centraalwerken.nl"
+      ],
+      "domains": [
+        "centraalwerken.nl"
+      ],
+      "ssl_cn": "*.centraalwerken.nl",
+      "ssl_issuer": "Trust Provider B.V.",
+      "ssl_fingerprint": "1e19bc57cf1544c76114e24dc3aa700f38e9efaebfcb3e44b9e2d39fce442c80",
+      "jarm": "2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
+      "http_title": "User Sign-In",
+      "http_server": null,
+      "os": null,
+      "query_matched": "ssl.jarm:2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
+      "collected_at": "2026-02-27T12:14:25.476297Z"
+    },
+    {
+      "ip": "80.120.70.15",
+      "port": 9000,
+      "product": null,
+      "tags": [],
+      "org": "World-Direct eBusiness solutions GmbH",
+      "asn": "AS8447",
+      "isp": "A1 Telekom Austria AG",
+      "country": "AT",
+      "city": "M\u00fcnster",
+      "last_seen": "2026-02-27T11:42:48.135242",
+      "hostnames": [
+        "mail.world-direct.at"
+      ],
+      "domains": [
+        "world-direct.at"
+      ],
+      "ssl_cn": "hslog1rz.wd.loc",
+      "ssl_issuer": null,
+      "ssl_fingerprint": "64e2a8fd3d35c9bbd9e4a14ff0859e3201f549a3d0fc8395441f9d5ef5306751",
+      "jarm": "2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
+      "http_title": "Graylog Web Interface",
+      "http_server": null,
+      "os": null,
+      "query_matched": "ssl.jarm:2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
+      "collected_at": "2026-02-27T12:14:25.476300Z"
+    },
+    {
+      "ip": "52.188.63.178",
+      "port": 443,
+      "product": null,
+      "tags": [
+        "cloud"
+      ],
+      "org": "Microsoft Corporation",
+      "asn": "AS8075",
+      "isp": "Microsoft Corporation",
+      "country": "US",
+      "city": "Reston",
+      "last_seen": "2026-02-27T11:38:19.775923",
+      "hostnames": [
+        "indysoft.com"
+      ],
+      "domains": [
+        "indysoft.com"
+      ],
+      "ssl_cn": "*.indysoft.com",
+      "ssl_issuer": "GoDaddy.com, Inc.",
+      "ssl_fingerprint": "69b8752a165df8e216d701e28fcfd01b109f5df4ae604e9dd12ed0186d361686",
+      "jarm": "2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
+      "http_title": "Web Access",
+      "http_server": null,
+      "os": null,
+      "query_matched": "ssl.jarm:2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
+      "collected_at": "2026-02-27T12:14:25.476303Z"
+    },
+    {
+      "ip": "189.181.18.166",
+      "port": 9000,
+      "product": null,
+      "tags": [
+        "self-signed"
+      ],
+      "org": "Gesti\u00f3n de direccionamiento UniNet",
+      "asn": "AS8151",
+      "isp": "UNINET",
+      "country": "MX",
+      "city": "Zapopan",
+      "last_seen": "2026-02-27T11:37:51.780184",
+      "hostnames": [
+        "dsl-166-18-181-189-dynamic.prod-infinitum.com.mx"
+      ],
+      "domains": [
+        "prod-infinitum.com.mx"
+      ],
+      "ssl_cn": "tst",
+      "ssl_issuer": "common",
+      "ssl_fingerprint": "2148058790380f118228e1918a4b4e1fad6ee3f204386832ce810cfcde27efd7",
+      "jarm": "2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
+      "http_title": "ROJAS Y RAZO ",
+      "http_server": null,
+      "os": null,
+      "query_matched": "ssl.jarm:2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
+      "collected_at": "2026-02-27T12:14:25.476306Z"
+    },
+    {
+      "ip": "217.5.210.59",
+      "port": 443,
+      "product": null,
+      "tags": [],
+      "org": "Stadtverwaltung Aschersleben",
+      "asn": "AS3320",
+      "isp": "Deutsche Telekom AG",
+      "country": "DE",
+      "city": "Isny",
+      "last_seen": "2026-02-27T11:36:50.923313",
+      "hostnames": [
+        "eas-proxy.aschersleben.de"
+      ],
+      "domains": [
+        "aschersleben.de"
+      ],
+      "ssl_cn": "eas-proxy.aschersleben.de",
+      "ssl_issuer": "Stadt Aschersleben",
+      "ssl_fingerprint": "ec17fa2ed2058b690911a2b6a8957530c8b7832d02f71443cc3a8a5cf49ed3d9",
+      "jarm": "2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
+      "http_title": null,
+      "http_server": null,
+      "os": null,
+      "query_matched": "ssl.jarm:2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
+      "collected_at": "2026-02-27T12:14:25.476308Z"
+    },
+    {
+      "ip": "115.242.166.2",
+      "port": 9000,
+      "product": null,
+      "tags": [
+        "self-signed"
+      ],
+      "org": "Reliance Jio Infocomm Limited",
+      "asn": "AS55836",
+      "isp": "Reliance Jio Infocomm Limited",
+      "country": "IN",
+      "city": "Kolkata",
+      "last_seen": "2026-02-27T11:36:09.042583",
+      "hostnames": [],
+      "domains": [],
+      "ssl_cn": "tst",
+      "ssl_issuer": "common",
+      "ssl_fingerprint": "2148058790380f118228e1918a4b4e1fad6ee3f204386832ce810cfcde27efd7",
+      "jarm": "2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
+      "http_title": "Web Access",
+      "http_server": null,
+      "os": null,
+      "query_matched": "ssl.jarm:2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
+      "collected_at": "2026-02-27T12:14:25.476311Z"
+    },
+    {
+      "ip": "44.193.225.142",
+      "port": 443,
+      "product": null,
+      "tags": [
+        "cloud"
+      ],
+      "org": "Amazon Data Services NoVa",
+      "asn": "AS14618",
+      "isp": "Amazon.com, Inc.",
+      "country": "US",
+      "city": "Ashburn",
+      "last_seen": "2026-02-27T11:35:07.187946",
+      "hostnames": [
+        "ec2-44-193-225-142.compute-1.amazonaws.com"
+      ],
+      "domains": [
+        "amazonaws.com"
+      ],
+      "ssl_cn": "*.na-us.axwaypreprod.net",
+      "ssl_issuer": "Amazon",
+      "ssl_fingerprint": "2833e27a007e87c922e8f7650e588b366f769ba7495a395a5d496406ffbe281e",
+      "jarm": "2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
+      "http_title": null,
+      "http_server": null,
+      "os": null,
+      "query_matched": "ssl.jarm:2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
+      "collected_at": "2026-02-27T12:14:25.476313Z"
+    },
+    {
+      "ip": "9.141.44.37",
+      "port": 443,
+      "product": null,
+      "tags": [
+        "cloud"
+      ],
+      "org": "Microsoft Limited",
+      "asn": "AS8075",
+      "isp": "Microsoft Corporation",
+      "country": "DE",
+      "city": "Frankfurt am Main",
+      "last_seen": "2026-02-27T11:33:06.743560",
+      "hostnames": [
+        "sisqualwfm.cloud"
+      ],
+      "domains": [
+        "sisqualwfm.cloud"
+      ],
+      "ssl_cn": "*.sisqualwfm.cloud",
+      "ssl_issuer": "GlobalSign nv-sa",
+      "ssl_fingerprint": "aea30c60a155b19df41e42f5aebf5b0107332250cab9d60d30df17da8b7997ff",
+      "jarm": "2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
+      "http_title": "Web Access",
+      "http_server": null,
+      "os": null,
+      "query_matched": "ssl.jarm:2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
+      "collected_at": "2026-02-27T12:14:25.476317Z"
+    },
+    {
+      "ip": "23.101.222.4",
+      "port": 10000,
+      "product": null,
+      "tags": [
+        "cloud"
+      ],
+      "org": "Microsoft Corporation",
+      "asn": "AS8075",
+      "isp": "Microsoft Corporation",
+      "country": "AU",
+      "city": "Sydney",
+      "last_seen": "2026-02-27T11:30:13.004288",
+      "hostnames": [
+        "ncentral.sensible.com.au",
+        "www.ncentral.sensible.com.au"
+      ],
+      "domains": [
+        "sensible.com.au"
+      ],
+      "ssl_cn": "ncentral.sensible.com.au",
+      "ssl_issuer": "Sectigo Limited",
+      "ssl_fingerprint": "676655227830898d7189e3d045e2181f405999282d69652f324e5c8159d82239",
+      "jarm": "2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
+      "http_title": "User Sign-In",
+      "http_server": null,
+      "os": null,
+      "query_matched": "ssl.jarm:2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
+      "collected_at": "2026-02-27T12:14:25.476320Z"
+    },
+    {
+      "ip": "149.36.252.151",
+      "port": 443,
+      "product": null,
+      "tags": [],
+      "org": "JOTELULU SLU",
+      "asn": "AS212087",
+      "isp": "JOTELULU S.L.",
+      "country": "ES",
+      "city": "Madrid",
+      "last_seen": "2026-02-27T11:28:51.915576",
+      "hostnames": [
+        "151.252.36.149.in-addr.arpa",
+        "wemo00apps1.jotelulu.cloud"
+      ],
+      "domains": [
+        "149.in-addr.arpa",
+        "jotelulu.cloud"
+      ],
+      "ssl_cn": "wemo00apps1.jotelulu.cloud",
+      "ssl_issuer": "Let's Encrypt",
+      "ssl_fingerprint": "acb8690b71ba15e9209a821b3fc88a993c632ae38dce1b8fc18544ef5553f6e9",
+      "jarm": "2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
+      "http_title": "Acceso Web",
+      "http_server": null,
+      "os": null,
+      "query_matched": "ssl.jarm:2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
+      "collected_at": "2026-02-27T12:14:25.476322Z"
+    },
+    {
+      "ip": "155.102.195.89",
+      "port": 993,
+      "product": null,
+      "tags": [
+        "cloud"
+      ],
+      "org": "Alibaba Cloud LLC",
+      "asn": null,
+      "isp": null,
+      "country": "US",
+      "city": "New York City",
+      "last_seen": "2026-02-27T11:26:59.726150",
+      "hostnames": [
+        "asqnw.com",
+        "ayzf.net",
+        "ayzf.vip"
+      ],
+      "domains": [
+        "asqnw.com",
+        "ayzf.net",
+        "ayzf.vip"
+      ],
+      "ssl_cn": "asqnw.com",
+      "ssl_issuer": "Let's Encrypt",
+      "ssl_fingerprint": "006df32ff4db03064fd82f0d3d3d470cf6e3bfc0696186e635853f1d5847adce",
+      "jarm": "2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
+      "http_title": null,
+      "http_server": null,
+      "os": null,
+      "query_matched": "ssl.jarm:2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
+      "collected_at": "2026-02-27T12:14:25.476328Z"
+    },
+    {
+      "ip": "189.181.18.166",
+      "port": 9943,
+      "product": null,
+      "tags": [
+        "self-signed"
+      ],
+      "org": "Gesti\u00f3n de direccionamiento UniNet",
+      "asn": "AS8151",
+      "isp": "UNINET",
+      "country": "MX",
+      "city": "Zapopan",
+      "last_seen": "2026-02-27T11:26:54.056522",
+      "hostnames": [
+        "dsl-166-18-181-189-dynamic.prod-infinitum.com.mx"
+      ],
+      "domains": [
+        "prod-infinitum.com.mx"
+      ],
+      "ssl_cn": "tst",
+      "ssl_issuer": "common",
+      "ssl_fingerprint": "2148058790380f118228e1918a4b4e1fad6ee3f204386832ce810cfcde27efd7",
+      "jarm": "2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
+      "http_title": "ROJAS Y RAZO ",
+      "http_server": null,
+      "os": null,
+      "query_matched": "ssl.jarm:2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
+      "collected_at": "2026-02-27T12:14:25.476331Z"
+    },
+    {
+      "ip": "3.221.254.213",
+      "port": 443,
+      "product": null,
+      "tags": [
+        "cloud",
+        "self-signed"
+      ],
+      "org": "Amazon Data Services NoVa",
+      "asn": "AS14618",
+      "isp": "Amazon.com, Inc.",
+      "country": "US",
+      "city": "Ashburn",
+      "last_seen": "2026-02-27T11:26:49.804952",
+      "hostnames": [
+        "ec2-3-221-254-213.compute-1.amazonaws.com"
+      ],
+      "domains": [
+        "amazonaws.com"
+      ],
+      "ssl_cn": "tst",
+      "ssl_issuer": "common",
+      "ssl_fingerprint": "2148058790380f118228e1918a4b4e1fad6ee3f204386832ce810cfcde27efd7",
+      "jarm": "2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
+      "http_title": "Web Access",
+      "http_server": null,
+      "os": null,
+      "query_matched": "ssl.jarm:2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
+      "collected_at": "2026-02-27T12:14:25.476334Z"
+    },
+    {
+      "ip": "155.102.195.92",
+      "port": 995,
+      "product": null,
+      "tags": [
+        "cloud"
+      ],
+      "org": "Alibaba Cloud LLC",
+      "asn": null,
+      "isp": null,
+      "country": "US",
+      "city": "New York City",
+      "last_seen": "2026-02-27T11:26:19.370340",
+      "hostnames": [
+        "asqnw.com",
+        "ayzf.net",
+        "ayzf.vip"
+      ],
+      "domains": [
+        "asqnw.com",
+        "ayzf.net",
+        "ayzf.vip"
+      ],
+      "ssl_cn": "asqnw.com",
+      "ssl_issuer": "Let's Encrypt",
+      "ssl_fingerprint": "006df32ff4db03064fd82f0d3d3d470cf6e3bfc0696186e635853f1d5847adce",
+      "jarm": "2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
+      "http_title": null,
+      "http_server": null,
+      "os": null,
+      "query_matched": "ssl.jarm:2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
+      "collected_at": "2026-02-27T12:14:25.476336Z"
+    },
+    {
+      "ip": "211.188.57.150",
+      "port": 995,
+      "product": null,
+      "tags": [],
+      "org": "NAVER Cloud Corp.",
+      "asn": "AS135354",
+      "isp": "NAVER BUSINESS PLATFORM ASIA PACIFIC PTE. LTD.",
+      "country": "KR",
+      "city": "Seoul",
+      "last_seen": "2026-02-27T11:24:34.449875",
+      "hostnames": [
+        "axentpro.co.kr"
+      ],
+      "domains": [
+        "axentpro.co.kr"
+      ],
+      "ssl_cn": "*.axentpro.co.kr",
+      "ssl_issuer": "GoGetSSL",
+      "ssl_fingerprint": "ecde857ae84d744e1c39753a60afb8a88ff7e7b6af322449acfaa2678806fb2c",
+      "jarm": "2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
+      "http_title": null,
+      "http_server": null,
+      "os": null,
+      "query_matched": "ssl.jarm:2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
+      "collected_at": "2026-02-27T12:14:25.476339Z"
+    },
+    {
+      "ip": "191.210.82.158",
+      "port": 8443,
+      "product": null,
+      "tags": [],
+      "org": "TELEF\u00d4NICA BRASIL S.A",
+      "asn": "AS26599",
+      "isp": "TELEF\u00d4NICA BRASIL S.A",
+      "country": "BR",
+      "city": "S\u00e3o Paulo",
+      "last_seen": "2026-02-27T11:24:28.708735",
+      "hostnames": [
+        "pmesp.br.evm.online",
+        "191-210-82-158.user.vivozap.com.br"
+      ],
+      "domains": [
+        "evm.online",
+        "vivozap.com.br"
+      ],
+      "ssl_cn": "*.pmesp.br.evm.online",
+      "ssl_issuer": "GlobalSign nv-sa",
+      "ssl_fingerprint": "38d352309d68aa642b9da8d0b9f8fee344ae8f140f8af19554b044cc346f827c",
+      "jarm": "2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
+      "http_title": "Error 404 Not Found",
+      "http_server": null,
+      "os": null,
+      "query_matched": "ssl.jarm:2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
+      "collected_at": "2026-02-27T12:14:25.476342Z"
+    },
+    {
+      "ip": "20.86.140.178",
+      "port": 443,
+      "product": null,
+      "tags": [
+        "cloud"
+      ],
+      "org": "Microsoft Corporation",
+      "asn": "AS8075",
+      "isp": "Microsoft Corporation",
+      "country": "NL",
+      "city": "Amsterdam",
+      "last_seen": "2026-02-27T11:21:30.280385",
+      "hostnames": [
+        "energy-profiler.com"
+      ],
+      "domains": [
+        "energy-profiler.com"
+      ],
+      "ssl_cn": "*.energy-profiler.com",
+      "ssl_issuer": "Sectigo Limited",
+      "ssl_fingerprint": "95f59653faa96de02a774a973a2805a0981a8c11dd834ee031a89171d57f931e",
+      "jarm": "2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
+      "http_title": "Login",
+      "http_server": null,
+      "os": null,
+      "query_matched": "ssl.jarm:2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
+      "collected_at": "2026-02-27T12:14:25.476345Z"
+    },
+    {
+      "ip": "189.181.18.166",
+      "port": 8181,
+      "product": null,
+      "tags": [
+        "self-signed"
+      ],
+      "org": "Gesti\u00f3n de direccionamiento UniNet",
+      "asn": "AS8151",
+      "isp": "UNINET",
+      "country": "MX",
+      "city": "Zapopan",
+      "last_seen": "2026-02-27T11:21:00.518741",
+      "hostnames": [
+        "dsl-166-18-181-189-dynamic.prod-infinitum.com.mx"
+      ],
+      "domains": [
+        "prod-infinitum.com.mx"
+      ],
+      "ssl_cn": "tst",
+      "ssl_issuer": "common",
+      "ssl_fingerprint": "2148058790380f118228e1918a4b4e1fad6ee3f204386832ce810cfcde27efd7",
+      "jarm": "2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
+      "http_title": "ROJAS Y RAZO ",
+      "http_server": null,
+      "os": null,
+      "query_matched": "ssl.jarm:2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
+      "collected_at": "2026-02-27T12:14:25.476347Z"
+    },
+    {
+      "ip": "52.188.83.100",
+      "port": 443,
+      "product": null,
+      "tags": [
+        "cloud"
+      ],
+      "org": "Microsoft Corporation",
+      "asn": "AS8075",
+      "isp": "Microsoft Corporation",
+      "country": "US",
+      "city": "Ashburn",
+      "last_seen": "2026-02-27T11:19:13.558454",
+      "hostnames": [
+        "calibrations.com"
+      ],
+      "domains": [
+        "calibrations.com"
+      ],
+      "ssl_cn": "*.calibrations.com",
+      "ssl_issuer": "GoDaddy.com, Inc.",
+      "ssl_fingerprint": "a61839d00c66a8b16ae2d2926170af6c281e60271fa4d747dce78fbb1c790ebb",
+      "jarm": "2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
+      "http_title": "Web Access",
+      "http_server": null,
+      "os": null,
+      "query_matched": "ssl.jarm:2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
+      "collected_at": "2026-02-27T12:14:25.476353Z"
+    },
+    {
+      "ip": "189.181.18.166",
+      "port": 10911,
+      "product": null,
+      "tags": [
+        "self-signed"
+      ],
+      "org": "Gesti\u00f3n de direccionamiento UniNet",
+      "asn": "AS8151",
+      "isp": "UNINET",
+      "country": "MX",
+      "city": "Zapopan",
+      "last_seen": "2026-02-27T11:18:17.293503",
+      "hostnames": [
+        "dsl-166-18-181-189-dynamic.prod-infinitum.com.mx"
+      ],
+      "domains": [
+        "prod-infinitum.com.mx"
+      ],
+      "ssl_cn": "tst",
+      "ssl_issuer": "common",
+      "ssl_fingerprint": "2148058790380f118228e1918a4b4e1fad6ee3f204386832ce810cfcde27efd7",
+      "jarm": "2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
+      "http_title": null,
+      "http_server": null,
+      "os": null,
+      "query_matched": "ssl.jarm:2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
+      "collected_at": "2026-02-27T12:14:25.476358Z"
+    },
+    {
+      "ip": "34.79.141.32",
+      "port": 8443,
+      "product": null,
+      "tags": [
+        "cloud"
+      ],
+      "org": "Google LLC",
+      "asn": "AS396982",
+      "isp": "Google LLC",
+      "country": "BE",
+      "city": "Brussels",
+      "last_seen": "2026-02-27T11:18:04.423537",
+      "hostnames": [
+        "32.141.79.34.bc.googleusercontent.com"
+      ],
+      "domains": [
+        "googleusercontent.com"
+      ],
+      "ssl_cn": "*.hono.gemone.com",
+      "ssl_issuer": "Let's Encrypt",
+      "ssl_fingerprint": "a83e5db505514211bf258b4d935ef7b20154c65912397b243474ac60f430e12c",
+      "jarm": "2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
+      "http_title": null,
+      "http_server": null,
+      "os": null,
+      "query_matched": "ssl.jarm:2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
+      "collected_at": "2026-02-27T12:14:25.476361Z"
+    },
+    {
+      "ip": "20.166.93.122",
+      "port": 8443,
+      "product": null,
+      "tags": [
+        "cloud"
+      ],
+      "org": "Microsoft Corporation",
+      "asn": "AS8075",
+      "isp": "Microsoft Corporation",
+      "country": "IE",
+      "city": "Dublin",
+      "last_seen": "2026-02-27T11:16:16.806544",
+      "hostnames": [
+        "sisqualwfm.cloud"
+      ],
+      "domains": [
+        "sisqualwfm.cloud"
+      ],
+      "ssl_cn": "*.sisqualwfm.cloud",
+      "ssl_issuer": "GlobalSign nv-sa",
+      "ssl_fingerprint": "aea30c60a155b19df41e42f5aebf5b0107332250cab9d60d30df17da8b7997ff",
+      "jarm": "2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
+      "http_title": "Web Access",
+      "http_server": null,
+      "os": null,
+      "query_matched": "ssl.jarm:2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
+      "collected_at": "2026-02-27T12:14:25.476366Z"
+    },
+    {
+      "ip": "80.69.175.226",
+      "port": 8443,
+      "product": null,
+      "tags": [],
+      "org": "UpCloud Cloud Servers",
+      "asn": "AS202053",
+      "isp": "UpCloud Ltd",
+      "country": "FI",
+      "city": "Porvoo",
+      "last_seen": "2026-02-27T11:12:32.621458",
+      "hostnames": [
+        "ngeniq.fi",
+        "80-69-175-226.fi-hel1.upcloud.host"
+      ],
+      "domains": [
+        "ngeniq.fi",
+        "upcloud.host"
+      ],
+      "ssl_cn": "*.ngeniq.fi",
+      "ssl_issuer": "Let's Encrypt",
+      "ssl_fingerprint": "37c9b67433f264b878760e162bcdcb81fabf235f13eb3c81e3a7ff17389d0d6b",
+      "jarm": "2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
+      "http_title": "Sis\u00e4\u00e4nkirjautuminen",
+      "http_server": null,
+      "os": null,
+      "query_matched": "ssl.jarm:2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
+      "collected_at": "2026-02-27T12:14:25.476375Z"
+    },
+    {
+      "ip": "34.123.152.147",
+      "port": 443,
+      "product": null,
+      "tags": [
+        "cloud"
+      ],
+      "org": "Google LLC",
+      "asn": "AS396982",
+      "isp": "Google LLC",
+      "country": "US",
+      "city": "Council Bluffs",
+      "last_seen": "2026-02-27T11:11:57.398018",
+      "hostnames": [
+        "147.152.123.34.bc.googleusercontent.com",
+        "vtabletop.us"
+      ],
+      "domains": [
+        "googleusercontent.com",
+        "vtabletop.us"
+      ],
+      "ssl_cn": "vtabletop.us",
+      "ssl_issuer": "Let's Encrypt",
+      "ssl_fingerprint": "18d27a9b9ad07eccb484e4db2b8759cdea8706b38681001eb20c76bd2864166a",
+      "jarm": "2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
+      "http_title": "Vay's Virtual Table Top",
+      "http_server": null,
+      "os": null,
+      "query_matched": "ssl.jarm:2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
+      "collected_at": "2026-02-27T12:14:25.476377Z"
+    },
+    {
+      "ip": "189.181.18.166",
+      "port": 10250,
+      "product": null,
+      "tags": [
+        "self-signed"
+      ],
+      "org": "Gesti\u00f3n de direccionamiento UniNet",
+      "asn": "AS8151",
+      "isp": "UNINET",
+      "country": "MX",
+      "city": "Zapopan",
+      "last_seen": "2026-02-27T11:10:05.062411",
+      "hostnames": [
+        "dsl-166-18-181-189-dynamic.prod-infinitum.com.mx"
+      ],
+      "domains": [
+        "prod-infinitum.com.mx"
+      ],
+      "ssl_cn": "tst",
+      "ssl_issuer": "common",
+      "ssl_fingerprint": "2148058790380f118228e1918a4b4e1fad6ee3f204386832ce810cfcde27efd7",
+      "jarm": "2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
+      "http_title": "ROJAS Y RAZO ",
+      "http_server": null,
+      "os": null,
+      "query_matched": "ssl.jarm:2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
+      "collected_at": "2026-02-27T12:14:25.476380Z"
+    },
+    {
+      "ip": "37.230.44.49",
+      "port": 4433,
+      "product": null,
+      "tags": [
+        "self-signed"
+      ],
+      "org": "Daten- und Telekommunikations GmbH Dessau",
+      "asn": "AS216451",
+      "isp": "Daten- und Telekommunikations GmbH Dessau",
+      "country": "DE",
+      "city": "Dessau",
+      "last_seen": "2026-02-27T11:08:53.670338",
+      "hostnames": [
+        "37-230-44-49.datel-dessau.de"
+      ],
+      "domains": [
+        "datel-dessau.de"
+      ],
+      "ssl_cn": "tst",
+      "ssl_issuer": "common",
+      "ssl_fingerprint": "2148058790380f118228e1918a4b4e1fad6ee3f204386832ce810cfcde27efd7",
+      "jarm": "2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
+      "http_title": "Web Zugang",
+      "http_server": null,
+      "os": null,
+      "query_matched": "ssl.jarm:2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
+      "collected_at": "2026-02-27T12:14:25.476383Z"
+    },
+    {
+      "ip": "23.38.192.222",
+      "port": 443,
+      "product": null,
+      "tags": [
+        "cdn"
+      ],
+      "org": "Akamai Technologies, Inc.",
+      "asn": "AS20940",
+      "isp": "Akamai International B.V.",
+      "country": "US",
+      "city": "Seattle",
+      "last_seen": "2026-02-27T11:07:20.588605",
+      "hostnames": [
+        "sin-im3.trip.com",
+        "im.trip.com",
+        "imgray.ctrip.com",
+        "im3.ctrip.com",
+        "a23-38-192-222.deploy.static.akamaitechnologies.com",
+        "im.ctrip.com",
+        "imgray.trip.com",
+        "im3.ctripcorp.com",
+        "imgray.ctripcorp.com",
+        "im.ctripcorp.com"
+      ],
+      "domains": [
+        "trip.com",
+        "ctrip.com",
+        "akamaitechnologies.com",
+        "ctripcorp.com"
+      ],
+      "ssl_cn": "imgray.ctrip.com",
+      "ssl_issuer": "Sectigo Limited",
+      "ssl_fingerprint": "7f82ddea938e2b0077038d3b24f4395cc1e94443a1840522c30c150da1221c1c",
+      "jarm": "2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
+      "http_title": null,
+      "http_server": null,
+      "os": null,
+      "query_matched": "ssl.jarm:2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
+      "collected_at": "2026-02-27T12:14:25.476394Z"
+    },
+    {
+      "ip": "81.196.125.85",
+      "port": 465,
+      "product": null,
+      "tags": [],
+      "org": "Centrul Regional pentru Formarea Profesionala a Adultilor",
+      "asn": "AS8708",
+      "isp": "DIGI ROMANIA S.A.",
+      "country": "RO",
+      "city": "R\u00e2mnicu V\u00e2lcea",
+      "last_seen": "2026-02-27T11:04:39.186589",
+      "hostnames": [
+        "static-81-196-125-85.rdsnet.ro",
+        "mail.crfpa-vl.ro"
+      ],
+      "domains": [
+        "rdsnet.ro",
+        "crfpa-vl.ro"
+      ],
+      "ssl_cn": "mail.crfpa-vl.ro",
+      "ssl_issuer": "Let's Encrypt",
+      "ssl_fingerprint": "9e59956f4dba95313f15131bbdd1342e6b7eee7176aef041a0372f3b36d78b81",
+      "jarm": "2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
+      "http_title": null,
+      "http_server": null,
+      "os": null,
+      "query_matched": "ssl.jarm:2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
+      "collected_at": "2026-02-27T12:14:25.476421Z"
+    },
+    {
+      "ip": "98.94.21.4",
+      "port": 443,
+      "product": null,
+      "tags": [
+        "cloud"
+      ],
+      "org": "Amazon Data Services NoVa",
+      "asn": "AS14618",
+      "isp": "Amazon.com, Inc.",
+      "country": "US",
+      "city": "Ashburn",
+      "last_seen": "2026-02-27T11:03:24.259922",
+      "hostnames": [
+        "siesacloud.com",
+        "ec2-98-94-21-4.compute-1.amazonaws.com"
+      ],
+      "domains": [
+        "siesacloud.com",
+        "amazonaws.com"
+      ],
+      "ssl_cn": "*.siesacloud.com",
+      "ssl_issuer": "GoDaddy.com, Inc.",
+      "ssl_fingerprint": "47ce533eedba152dcf32bdc00e6f933b285950878e081f9606875fd2007a5dcb",
+      "jarm": "2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
+      "http_title": "Web Access",
+      "http_server": null,
+      "os": null,
+      "query_matched": "ssl.jarm:2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
+      "collected_at": "2026-02-27T12:14:25.476430Z"
+    },
+    {
+      "ip": "16.64.94.186",
+      "port": 443,
+      "product": null,
+      "tags": [
+        "cloud"
+      ],
+      "org": "Amazon.com, Inc.",
+      "asn": "AS8987",
+      "isp": "Amazon Data Services Ireland Ltd",
+      "country": "US",
+      "city": "Columbus",
+      "last_seen": "2026-02-27T11:03:08.604692",
+      "hostnames": [
+        "core-mq-wv-logan-911.centralsquarecloudgov.com",
+        "edge-mq-wv-logan-911.centralsquarecloudgov.com",
+        "mq-wv-logan-911.centralsquarecloudgov.com",
+        "ec2-16-64-94-186.us-gov-east-1.compute.amazonaws.com"
+      ],
+      "domains": [
+        "centralsquarecloudgov.com",
+        "amazonaws.com"
+      ],
+      "ssl_cn": "mq-wv-logan-911.centralsquarecloudgov.com",
+      "ssl_issuer": "Let's Encrypt",
+      "ssl_fingerprint": "006a3d971efcde438982d0cf79c9ffd6ca2a02a9aa0a1811e7546f4fc8737436",
+      "jarm": "2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
+      "http_title": null,
+      "http_server": null,
+      "os": null,
+      "query_matched": "ssl.jarm:2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
+      "collected_at": "2026-02-27T12:14:25.476433Z"
+    },
+    {
+      "ip": "72.3.141.107",
+      "port": 443,
+      "product": null,
+      "tags": [
+        "cloud"
+      ],
+      "org": "Rackspace",
+      "asn": "AS33070",
+      "isp": "Rackspace Hosting",
+      "country": "US",
+      "city": "Richardson",
+      "last_seen": "2026-02-27T11:00:40.812494",
+      "hostnames": [
+        "txdocs.com"
+      ],
+      "domains": [
+        "txdocs.com"
+      ],
+      "ssl_cn": "*.txdocs.com",
+      "ssl_issuer": "Sectigo Limited",
+      "ssl_fingerprint": "e0e9dfa010bac898383fa8a8343f68aa121dc280e8672b3c5ee5302655ef7c73",
+      "jarm": "2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
+      "http_title": "Web Access",
+      "http_server": null,
+      "os": null,
+      "query_matched": "ssl.jarm:2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
+      "collected_at": "2026-02-27T12:14:25.476453Z"
+    },
+    {
+      "ip": "189.181.18.166",
+      "port": 9898,
+      "product": null,
+      "tags": [
+        "self-signed"
+      ],
+      "org": "Gesti\u00f3n de direccionamiento UniNet",
+      "asn": "AS8151",
+      "isp": "UNINET",
+      "country": "MX",
+      "city": "Zapopan",
+      "last_seen": "2026-02-27T10:58:06.903675",
+      "hostnames": [
+        "dsl-166-18-181-189-dynamic.prod-infinitum.com.mx"
+      ],
+      "domains": [
+        "prod-infinitum.com.mx"
+      ],
+      "ssl_cn": "tst",
+      "ssl_issuer": "common",
+      "ssl_fingerprint": "2148058790380f118228e1918a4b4e1fad6ee3f204386832ce810cfcde27efd7",
+      "jarm": "2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
+      "http_title": "ROJAS Y RAZO ",
+      "http_server": null,
+      "os": null,
+      "query_matched": "ssl.jarm:2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
+      "collected_at": "2026-02-27T12:14:25.476467Z"
+    },
+    {
+      "ip": "162.43.142.93",
+      "port": 465,
+      "product": null,
+      "tags": [
+        "self-signed"
+      ],
+      "org": "Megaport (USA) Inc.",
+      "asn": "AS49915",
+      "isp": "Megaport (UK) Limited",
+      "country": "US",
+      "city": "Seattle",
+      "last_seen": "2026-02-27T10:54:04.404694",
+      "hostnames": [],
+      "domains": [],
+      "ssl_cn": "burp",
+      "ssl_issuer": "test",
+      "ssl_fingerprint": "ea02cc9b8dcfec0813d416eeaed02eabfe6ee4f8e1f51cfc4fc3047e1586bab8",
+      "jarm": "2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
+      "http_title": null,
+      "http_server": null,
+      "os": null,
+      "query_matched": "ssl.jarm:2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
+      "collected_at": "2026-02-27T12:14:25.476489Z"
+    },
+    {
+      "ip": "204.225.128.57",
+      "port": 8443,
+      "product": null,
+      "tags": [],
+      "org": "Cloudli Communications Corp.",
+      "asn": "AS18637",
+      "isp": "Cloudli Communications Corp.",
+      "country": "CA",
+      "city": "Montr\u00e9al",
+      "last_seen": "2026-02-27T10:51:26.009301",
+      "hostnames": [
+        "www.ucaas-dev.cloudli.com",
+        "app-dev.talkntext.com",
+        "ucaas-dev.talkntext.com",
+        "ucaas-stage.talkntext.com",
+        "app-stage.talkntext.com",
+        "ucaasweb-stage.talkntext.com",
+        "ucaasweb-dev.talkntext.com",
+        "ucaas-dev.cloudli.com",
+        "ucaasweb-stage.cloudli.com",
+        "ucaas-stage.cloudli.com",
+        "ucaasweb-dev.cloudli.com"
+      ],
+      "domains": [
+        "cloudli.com",
+        "talkntext.com"
+      ],
+      "ssl_cn": "ucaas-dev.cloudli.com",
+      "ssl_issuer": "Entrust, Inc.",
+      "ssl_fingerprint": "7f536a8d46ed814507517e57d90825083d27bbf59add1a19a5584b089a763feb",
+      "jarm": "2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
+      "http_title": "Error 404 ",
+      "http_server": null,
+      "os": null,
+      "query_matched": "ssl.jarm:2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
+      "collected_at": "2026-02-27T12:14:25.476505Z"
+    },
+    {
+      "ip": "154.56.157.106",
+      "port": 443,
+      "product": null,
+      "tags": [],
+      "org": "Ocean's network S.L.",
+      "asn": "AS174",
+      "isp": "Cogent Communications",
+      "country": "ES",
+      "city": "Madrid",
+      "last_seen": "2026-02-27T10:51:17.772355",
+      "hostnames": [
+        "106.157.56.154.in-addr.arpa",
+        "aroy00apps1.jotelulu.cloud"
+      ],
+      "domains": [
+        "154.in-addr.arpa",
+        "jotelulu.cloud"
+      ],
+      "ssl_cn": "aroy00apps1.jotelulu.cloud",
+      "ssl_issuer": "Let's Encrypt",
+      "ssl_fingerprint": "5f44bab731826f6da1a07dcaa07315f71a5dcf81e7db740d178ee08321ee074f",
+      "jarm": "2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
+      "http_title": "Acceso Web",
+      "http_server": null,
+      "os": null,
+      "query_matched": "ssl.jarm:2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
+      "collected_at": "2026-02-27T12:14:25.476508Z"
+    },
+    {
+      "ip": "189.181.18.166",
+      "port": 10909,
+      "product": null,
+      "tags": [
+        "self-signed"
+      ],
+      "org": "Gesti\u00f3n de direccionamiento UniNet",
+      "asn": "AS8151",
+      "isp": "UNINET",
+      "country": "MX",
+      "city": "Zapopan",
+      "last_seen": "2026-02-27T10:51:12.059768",
+      "hostnames": [
+        "dsl-166-18-181-189-dynamic.prod-infinitum.com.mx"
+      ],
+      "domains": [
+        "prod-infinitum.com.mx"
+      ],
+      "ssl_cn": "tst",
+      "ssl_issuer": "common",
+      "ssl_fingerprint": "2148058790380f118228e1918a4b4e1fad6ee3f204386832ce810cfcde27efd7",
+      "jarm": "2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
+      "http_title": null,
+      "http_server": null,
+      "os": null,
+      "query_matched": "ssl.jarm:2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
+      "collected_at": "2026-02-27T12:14:25.476511Z"
+    },
+    {
+      "ip": "189.181.18.166",
+      "port": 2083,
+      "product": null,
+      "tags": [
+        "self-signed"
+      ],
+      "org": "Gesti\u00f3n de direccionamiento UniNet",
+      "asn": "AS8151",
+      "isp": "UNINET",
+      "country": "MX",
+      "city": "Zapopan",
+      "last_seen": "2026-02-27T10:50:27.930467",
+      "hostnames": [
+        "dsl-166-18-181-189-dynamic.prod-infinitum.com.mx"
+      ],
+      "domains": [
+        "prod-infinitum.com.mx"
+      ],
+      "ssl_cn": "tst",
+      "ssl_issuer": "common",
+      "ssl_fingerprint": "2148058790380f118228e1918a4b4e1fad6ee3f204386832ce810cfcde27efd7",
+      "jarm": "2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
+      "http_title": "ROJAS Y RAZO ",
+      "http_server": null,
+      "os": null,
+      "query_matched": "ssl.jarm:2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
+      "collected_at": "2026-02-27T12:14:25.476522Z"
+    },
+    {
+      "ip": "213.164.30.187",
+      "port": 465,
+      "product": null,
+      "tags": [],
+      "org": "HACKNER SECURITY INTELLIGENCE GMBH",
+      "asn": "AS8220",
+      "isp": "COLT Technology Services Group Limited",
+      "country": "AT",
+      "city": "Vienna",
+      "last_seen": "2026-02-27T10:47:32.918594",
+      "hostnames": [
+        "bc-hackner-security.com",
+        "net.hackner-security.com"
+      ],
+      "domains": [
+        "bc-hackner-security.com",
+        "hackner-security.com"
+      ],
+      "ssl_cn": "*.bc-hackner-security.com",
+      "ssl_issuer": "DigiCert Inc",
+      "ssl_fingerprint": "21d763e793b4ac4dd7362373c0dcf705fdaa230ff58dc4ea1969a3ea0862bf8d",
+      "jarm": "2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
+      "http_title": null,
+      "http_server": null,
+      "os": null,
+      "query_matched": "ssl.jarm:2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
+      "collected_at": "2026-02-27T12:14:25.476539Z"
+    },
+    {
+      "ip": "103.163.152.229",
+      "port": 465,
+      "product": null,
+      "tags": [],
+      "org": "Zoho Japan Corporation",
+      "asn": "AS141757",
+      "isp": "Zoho Japan Corporation",
+      "country": "JP",
+      "city": "Minatomirai",
+      "last_seen": "2026-02-27T10:47:02.532402",
+      "hostnames": [
+        "zoho.jp"
+      ],
+      "domains": [
+        "zoho.jp"
+      ],
+      "ssl_cn": "*.zoho.jp",
+      "ssl_issuer": "DigiCert Inc",
+      "ssl_fingerprint": "0ab0ac80492fb81f7ff6fa7ad9d356be4b49169803a3061978d2396b6573aca6",
+      "jarm": "2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
+      "http_title": null,
+      "http_server": null,
+      "os": null,
+      "query_matched": "ssl.jarm:2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
+      "collected_at": "2026-02-27T12:14:25.476542Z"
+    },
+    {
+      "ip": "189.181.18.166",
+      "port": 7001,
+      "product": null,
+      "tags": [
+        "self-signed"
+      ],
+      "org": "Gesti\u00f3n de direccionamiento UniNet",
+      "asn": "AS8151",
+      "isp": "UNINET",
+      "country": "MX",
+      "city": "Zapopan",
+      "last_seen": "2026-02-27T10:46:32.405912",
+      "hostnames": [
+        "dsl-166-18-181-189-dynamic.prod-infinitum.com.mx"
+      ],
+      "domains": [
+        "prod-infinitum.com.mx"
+      ],
+      "ssl_cn": "tst",
+      "ssl_issuer": "common",
+      "ssl_fingerprint": "2148058790380f118228e1918a4b4e1fad6ee3f204386832ce810cfcde27efd7",
+      "jarm": "2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
+      "http_title": "ROJAS Y RAZO ",
+      "http_server": null,
+      "os": null,
+      "query_matched": "ssl.jarm:2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
+      "collected_at": "2026-02-27T12:14:25.476545Z"
+    },
+    {
+      "ip": "91.120.23.153",
+      "port": 465,
+      "product": null,
+      "tags": [],
+      "org": "Deloitte Advisory and Management Consulting Ltd.",
+      "asn": "AS5588",
+      "isp": "T-Mobile Czech Republic a.s.",
+      "country": "HU",
+      "city": "Budapest",
+      "last_seen": "2026-02-27T10:46:15.601345",
+      "hostnames": [
+        "golnk.xyz",
+        "ws23-bud.dtce.net"
+      ],
+      "domains": [
+        "golnk.xyz",
+        "dtce.net"
+      ],
+      "ssl_cn": "golnk.xyz",
+      "ssl_issuer": "Let's Encrypt",
+      "ssl_fingerprint": "b5cbe139bfd8540df114af50c4d0fd8d5348cc804aa0e71cb1b4a5717eb22a94",
+      "jarm": "2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
+      "http_title": null,
+      "http_server": null,
+      "os": null,
+      "query_matched": "ssl.jarm:2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
+      "collected_at": "2026-02-27T12:14:25.476557Z"
     }
   ],
-  "last_updated": "2026-02-20T12:14:26.227098Z",
-  "total_count": 1697
+  "last_updated": "2026-02-27T12:14:08.550745Z",
+  "total_count": 1855
 }
